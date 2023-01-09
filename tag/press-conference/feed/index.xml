@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Press Conference &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/press-conference/feed/?simply_static_page=226" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/press-conference/feed/?simply_static_page=303" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Jan 2023 04:57:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Jan 2023 07:21:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>December 27</title>
+		<title>Read News Articles and Press Conferences by &#8220;Unification Church&#8221;, Day 4</title>
 		<link>/2022/12/27/december-27/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
@@ -128,7 +128,7 @@
 		
 			</item>
 		<item>
-		<title>December 26</title>
+		<title>Read News Articles and Press Conferences by &#8220;Unification Church&#8221;, Day 3</title>
 		<link>/2022/12/26/december-26/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
@@ -233,7 +233,7 @@
 		
 			</item>
 		<item>
-		<title>December 25</title>
+		<title>Read News Articles and Press Conferences by &#8220;Unification Church&#8221;, Day 2</title>
 		<link>/2022/12/25/december-25/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>

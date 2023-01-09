@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Twitter &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/twitter/feed/?simply_static_page=236" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/twitter/feed/?simply_static_page=313" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Jan 2023 05:02:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Jan 2023 07:22:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>January 3</title>
+		<title>Trying to correct Twitter data</title>
 		<link>/2023/01/03/january-3/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
@@ -58,7 +58,7 @@
 		
 			</item>
 		<item>
-		<title>January 2</title>
+		<title>Correcting Twitter data as a piece of public opinion</title>
 		<link>/2023/01/02/january-2/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
