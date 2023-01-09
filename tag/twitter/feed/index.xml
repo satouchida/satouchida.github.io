@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Twitter &#8211; Satoru Uchida</title>
+	<atom:link href="/tag/twitter/feed/?simply_static_page=236" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Jan 2023 05:02:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>January 3</title>
+		<link>/2023/01/03/january-3/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 00:00:29 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=51</guid>
+
+					<description><![CDATA[Trying to correct twitter data Today I found I can use cloud server to run this program and it makes easier the project. However, since Twitter&#8217;s problem, I can&#8217;t verify my twtter developer account for last few days (I&#8217;m writing this on Jan 5). So I just read and summarize on current news about &#8220;Unification [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h3>Trying to correct twitter data</h3>
+
+
+
+<p>Today I found I can use cloud server to run this program and it makes easier the project.</p>
+
+
+
+<p>However, since Twitter&#8217;s problem, I can&#8217;t verify my twtter developer account for last few days (I&#8217;m writing this on Jan 5). So I just read and summarize on current news about &#8220;Unification Church&#8221; for next few days.</p>
+
+
+
+<p><strong><em>Updated on Jan 8</em></strong><br>Finally Twitter sent me the verification code, so I run the code below. However it said I need Elevated access to run this script, so I am now requesting Eleveted API access for Twitter. FAQ and developer forum suggests it usually takes less than a week.</p>
+
+
+
+<p>For example, I will run the script below to correct tweets related to &#8220;Unification Church.&#8221;</p>
+
+
+
+<pre class="wp-block-code"><code>gathertw.sh -l ja -o ja --sincedt=20220707 -c -- 統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></pre>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>January 2</title>
+		<link>/2023/01/02/january-2/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2023 00:00:55 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Second Generation]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Unification Church]]></category>
+		<guid isPermaLink="false">/?p=49</guid>
+
+					<description><![CDATA[Correcting Twitter data as a piece of public opinion From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather twitter posts. This is open source software build by Japanese scholars, and seems easy to run. However, since [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h3>Correcting Twitter data as a piece of public opinion</h3>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<p>From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221;</p>
+
+
+
+<p>Based on <a href="https://www.ipsj.or.jp/dp/contents/publication/41/S1101-R1802.html#link12">this</a> project, I will use &#8220;Kotoriotoko&#8221; to gather twitter posts. This is open source software build by Japanese scholars, and seems easy to run. However, since I aim to gather two different but overlapping concepts, I need two separate computers that can run this program 24/7. Fortunately I have one old computer that I barely use, so first computer would be that one. For my second computer, I could buy new small computer for this research using new year discounts or borrow unused computer from group home.</p>
+
+
+
+<p>I could not verify my phone number to Twitter account which I want to use, so I am going to get another phone number for this project and one-month trip to Japan.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><a href="https://qiita.com/richmikan@github/items/48f49473f46084c57701">How to correct mass twitter posts</a><br><a href="https://github.com/ShellShoccar-jpn/kotoriotoko/blob/master/APPS/gathertw.md">How to use of &#8220;Kotoriotoko&#8221; to gather twitter post</a></p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
