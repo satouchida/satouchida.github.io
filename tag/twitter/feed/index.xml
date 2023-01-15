@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Twitter &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/twitter/feed/?simply_static_page=538" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/twitter/feed/?simply_static_page=617" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Jan 2023 07:22:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Jan 2023 10:04:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,21 +29,21 @@
 		<category><![CDATA[Twitter]]></category>
 		<guid isPermaLink="false">/?p=51</guid>
 
-					<description><![CDATA[Trying to correct twitter data Today I found I can use cloud server to run this program and it makes easier the project. However, since Twitter&#8217;s problem, I can&#8217;t verify my twtter developer account for last few days (I&#8217;m writing this on Jan 5). So I just read and summarize on current news about &#8220;Unification [&#8230;]]]></description>
+					<description><![CDATA[Trying to correct twitter data Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <h3>Trying to correct twitter data</h3>
 
 
 
-<p>Today I found I can use cloud server to run this program and it makes easier the project.</p>
+<p>Today I found I can use cloud services to run this program, making the project easier.</p>
 
 
 
-<p>However, since Twitter&#8217;s problem, I can&#8217;t verify my twtter developer account for last few days (I&#8217;m writing this on Jan 5). So I just read and summarize on current news about &#8220;Unification Church&#8221; for next few days.</p>
+<p>However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next few days.</p>
 
 
 
-<p><strong><em>Updated on Jan 8</em></strong><br>Finally Twitter sent me the verification code, so I run the code below. However it said I need Elevated access to run this script, so I am now requesting Eleveted API access for Twitter. FAQ and developer forum suggests it usually takes less than a week.</p>
+<p><strong><em>Updated on Jan 8</em></strong><br>Finally, Twitter sent me the verification code, so I ran the code below. However, it said I need Elevated access to run this script, so I am now requesting Elevated API access for Twitter. FAQ and developer forum suggests it usually takes less than a week.</p>
 
 
 
@@ -69,7 +69,7 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=49</guid>
 
-					<description><![CDATA[Correcting Twitter data as a piece of public opinion From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather twitter posts. This is open source software build by Japanese scholars, and seems easy to run. However, since [&#8230;]]]></description>
+					<description><![CDATA[Correcting Twitter data as a piece of public opinion From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <h3>Correcting Twitter data as a piece of public opinion</h3>
 
@@ -83,11 +83,11 @@
 
 
 
-<p>Based on <a href="https://www.ipsj.or.jp/dp/contents/publication/41/S1101-R1802.html#link12">this</a> project, I will use &#8220;Kotoriotoko&#8221; to gather twitter posts. This is open source software build by Japanese scholars, and seems easy to run. However, since I aim to gather two different but overlapping concepts, I need two separate computers that can run this program 24/7. Fortunately I have one old computer that I barely use, so first computer would be that one. For my second computer, I could buy new small computer for this research using new year discounts or borrow unused computer from group home.</p>
+<p>Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I aim to gather two different but overlapping concepts, I need two separate computers that can run this program 24/7. Fortunately, I have one old computer I barely use, so the first one would be that one. For my second computer, I could buy a new small computer for this research using new year&#8217;s discounts or borrow an unused computer from a group home.</p>
 
 
 
-<p>I could not verify my phone number to Twitter account which I want to use, so I am going to get another phone number for this project and one-month trip to Japan.</p>
+<p>I could not verify my phone number for a Twitter account, which I want to use, so I am going to get another phone number for this project and a one-month trip to Japan.</p>
 
 
 
