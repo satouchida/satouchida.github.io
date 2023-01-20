@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google Trends &#8211; Satoru Uchida</title>
+	<atom:link href="/tag/google-trends/feed/?simply_static_page=761" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Jan 2023 14:59:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Utilize Google Trends for the sake of examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
+		<link>/2023/01/20/jan-17-jan-20/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 00:00:48 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Google Trends]]></category>
+		<category><![CDATA[Second Generation]]></category>
+		<category><![CDATA[Unification Church]]></category>
+		<guid isPermaLink="false">/?p=228</guid>
+
+					<description><![CDATA[Jan 15 &#8211; Jan 20 #### The API I used for gathering information other parameters I would like to use Problems]]></description>
+										<content:encoded><![CDATA[
+<h4 class="has-text-align-center">Jan 15 &#8211; Jan 20</h4>
+
+
+
+<h2>#### The API I used for gathering information</h2>
+
+
+
+<ul>
+<li><a href="https://pypi.org/project/pytrends/"><strong>pytrends</strong></a>
+<ul>
+<li>unofficial API of Google Trends makes it easy to gather vast amounts of information from Google search
+<ul>
+<li>Use keywords I chose when I tried to gather information from Twitter
+<ul>
+<li><code>統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></li>
+
+
+
+<li><code>２世 OR 二世 OR 2世 OR 宗教二世 OR 宗教2世 OR 宗教２世 OR 三世 OR 3世 OR ３世 OR 宗教三世 OR 宗教3世 OR 宗教３世</code></li>
+</ul>
+</li>
+
+
+
+<li>Codes used pytrends are the following:</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>import pytrends
+import matplotlib
+import pandas as pd
+from matplotlib import pylab as plt
+font = {'family' : 'Noto Sans CJK JP'}
+matplotlib.rc('font', **font)
+import requests
+from lxml import etree
+from pytrends.request import TrendReq
+
+# API Connection
+pytrends = TrendReq(hl='ja=JP', tz=540)
+# Set the search keyword
+kw_list1 = &#91;'統一教会', '統一協会', '旧統一協会', '旧統一教会']
+kw_list2 = &#91;'文鮮明', '韓鶴子', '家庭連合', '祝福二世']
+kw_list3 = &#91;'統一', '祝福２世', '祝福2世']
+
+pytrends.build_payload(kw_list1, timeframe='2022-07-07 2023-01-17', geo='JP')
+df1 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list2, timeframe='2022-07-07 2023-01-17', geo='JP')
+df2 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list3, timeframe='2022-07-07 2023-01-17', geo='JP')
+df3 = pytrends.interest_over_time()
+
+df = pd.concat(&#91;df1, df2, df3], axis=1)
+df.to_csv("gt-church-20220707-20230117.csv", encoding="shift_jis")</code></pre>
+
+
+
+<pre class="wp-block-code"><code>import pytrends
+import matplotlib
+import pandas as pd
+from matplotlib import pylab as plt
+font = {'family' : 'Noto Sans CJK JP'}
+matplotlib.rc('font', **font)
+import requests
+from lxml import etree
+from pytrends.request import TrendReq
+
+# API Connection
+pytrends = TrendReq(hl='ja=JP', tz=540)
+# Set the search keyword
+
+kw_list1 = &#91;'2世', '二世', '２世', '宗教2世']
+kw_list2 = &#91;'宗教２世', '宗教二世', '3世', '３世']
+kw_list3 = &#91;'宗教3世', '宗教３世', '宗教三世', '三世']
+
+pytrends.build_payload(kw_list1, timeframe='2022-07-07 2023-01-17', geo='JP')
+df1 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list2, timeframe='2022-07-07 2023-01-17', geo='JP')
+df2 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list3, timeframe='2022-07-07 2023-01-17', geo='JP')
+df3 = pytrends.interest_over_time()
+
+df = pd.concat(&#91;df1, df2, df3], axis=1)
+df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
+
+
+
+<h5>other parameters I would like to use</h5>
+
+
+
+<ul>
+<li><code>pytrends.related_queries()</code></li>
+
+
+
+<li><code>pytrends.suggestions(keyword)</code></li>
+</ul>
+
+
+
+<h6>Problems</h6>
+
+
+
+<ul>
+<li>Because pytrends send a large number of requests to the Google server, Google frequently restricts my computer&#8217;s IP address to protect its server. The error message looks like this:</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>pytrends.exceptions.ResponseError: The request failed: Google returned a response with code 429.</code></pre>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Unification Church &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/unification-church/feed/?simply_static_page=700" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/unification-church/feed/?simply_static_page=784" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Jan 2023 10:38:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jan 2023 14:59:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,149 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Utilize Google Trends for the sake of examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
+		<link>/2023/01/20/jan-17-jan-20/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 00:00:48 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Google Trends]]></category>
+		<category><![CDATA[Second Generation]]></category>
+		<category><![CDATA[Unification Church]]></category>
+		<guid isPermaLink="false">/?p=228</guid>
+
+					<description><![CDATA[Jan 15 &#8211; Jan 20 #### The API I used for gathering information other parameters I would like to use Problems]]></description>
+										<content:encoded><![CDATA[
+<h4 class="has-text-align-center">Jan 15 &#8211; Jan 20</h4>
+
+
+
+<h2>#### The API I used for gathering information</h2>
+
+
+
+<ul>
+<li><a href="https://pypi.org/project/pytrends/"><strong>pytrends</strong></a>
+<ul>
+<li>unofficial API of Google Trends makes it easy to gather vast amounts of information from Google search
+<ul>
+<li>Use keywords I chose when I tried to gather information from Twitter
+<ul>
+<li><code>統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></li>
+
+
+
+<li><code>２世 OR 二世 OR 2世 OR 宗教二世 OR 宗教2世 OR 宗教２世 OR 三世 OR 3世 OR ３世 OR 宗教三世 OR 宗教3世 OR 宗教３世</code></li>
+</ul>
+</li>
+
+
+
+<li>Codes used pytrends are the following:</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>import pytrends
+import matplotlib
+import pandas as pd
+from matplotlib import pylab as plt
+font = {'family' : 'Noto Sans CJK JP'}
+matplotlib.rc('font', **font)
+import requests
+from lxml import etree
+from pytrends.request import TrendReq
+
+# API Connection
+pytrends = TrendReq(hl='ja=JP', tz=540)
+# Set the search keyword
+kw_list1 = &#91;'統一教会', '統一協会', '旧統一協会', '旧統一教会']
+kw_list2 = &#91;'文鮮明', '韓鶴子', '家庭連合', '祝福二世']
+kw_list3 = &#91;'統一', '祝福２世', '祝福2世']
+
+pytrends.build_payload(kw_list1, timeframe='2022-07-07 2023-01-17', geo='JP')
+df1 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list2, timeframe='2022-07-07 2023-01-17', geo='JP')
+df2 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list3, timeframe='2022-07-07 2023-01-17', geo='JP')
+df3 = pytrends.interest_over_time()
+
+df = pd.concat(&#91;df1, df2, df3], axis=1)
+df.to_csv("gt-church-20220707-20230117.csv", encoding="shift_jis")</code></pre>
+
+
+
+<pre class="wp-block-code"><code>import pytrends
+import matplotlib
+import pandas as pd
+from matplotlib import pylab as plt
+font = {'family' : 'Noto Sans CJK JP'}
+matplotlib.rc('font', **font)
+import requests
+from lxml import etree
+from pytrends.request import TrendReq
+
+# API Connection
+pytrends = TrendReq(hl='ja=JP', tz=540)
+# Set the search keyword
+
+kw_list1 = &#91;'2世', '二世', '２世', '宗教2世']
+kw_list2 = &#91;'宗教２世', '宗教二世', '3世', '３世']
+kw_list3 = &#91;'宗教3世', '宗教３世', '宗教三世', '三世']
+
+pytrends.build_payload(kw_list1, timeframe='2022-07-07 2023-01-17', geo='JP')
+df1 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list2, timeframe='2022-07-07 2023-01-17', geo='JP')
+df2 = pytrends.interest_over_time()
+
+pytrends.build_payload(kw_list3, timeframe='2022-07-07 2023-01-17', geo='JP')
+df3 = pytrends.interest_over_time()
+
+df = pd.concat(&#91;df1, df2, df3], axis=1)
+df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
+
+
+
+<h5>other parameters I would like to use</h5>
+
+
+
+<ul>
+<li><code>pytrends.related_queries()</code></li>
+
+
+
+<li><code>pytrends.suggestions(keyword)</code></li>
+</ul>
+
+
+
+<h6>Problems</h6>
+
+
+
+<ul>
+<li>Because pytrends send a large number of requests to the Google server, Google frequently restricts my computer&#8217;s IP address to protect its server. The error message looks like this:</li>
+</ul>
+
+
+
+<pre class="wp-block-code"><code>pytrends.exceptions.ResponseError: The request failed: Google returned a response with code 429.</code></pre>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Japan decides to indict the man who shot Shinzo Abe</title>
 		<link>/2023/01/14/jan-14/</link>
-					<comments>/2023/01/14/jan-14/#respond</comments>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sat, 14 Jan 2023 00:00:43 +0000</pubDate>
@@ -50,15 +190,12 @@
 </blockquote>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/01/14/jan-14/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Talking about &#8220;second generation&#8221; issues with my friend</title>
 		<link>/2023/01/10/jan-10/</link>
-					<comments>/2023/01/10/jan-10/#respond</comments>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 10 Jan 2023 00:00:43 +0000</pubDate>
@@ -93,8 +230,6 @@
 <p>My group home, though, have a lot of money and has some lawyers working for children. The founder of the corporation which runs my group home seems very good at finding and gathering the people they need. But not every corporation is like that. Some institutions are suffering from a lack of money. Others are doing everything they can to hire. We concluded we should consider these problems while discussing treating spiritually abused children.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/01/10/jan-10/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -116,9 +251,9 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=58</guid>
 
-					<description><![CDATA[Read right-side magazines and left-side newspapers to grasp viewpoints of the right/left wing for &#8220;Unification Church&#8221; &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, we have not discussed &#8220;Unification Church&#8221; and its related issues. Akahata (newspaper published by the Japanese Communist Party, JCP) 赤旗編集局, 日本共産党中央委員会機関紙誌業務部, and 日本共産党中央委員会出版局. 2004. しんぶん赤旗. 縮刷版[CD-ROM] ed. [&#8230;]]]></description>
+					<description><![CDATA[Jan 6 &#8211; Jan 9 &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, we have not discussed &#8220;Unification Church&#8221; and its related issues. Akahata (newspaper published by the Japanese Communist Party, JCP) 赤旗編集局, 日本共産党中央委員会機関紙誌業務部, and 日本共産党中央委員会出版局. 2004. しんぶん赤旗. 縮刷版[CD-ROM] ed. 日本共産党中央委員会機関紙誌業務部; 日本共産党中央委員会出版局 (発売). https://ci.nii.ac.jp/ncid/AA11954267. Oct 2022 Day Summary of Contents Oct [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h4>Read right-side magazines and left-side newspapers to grasp viewpoints of the right/left wing for &#8220;Unification Church&#8221;</h4>
+<h4>Jan 6 &#8211; Jan 9</h4>
 
 
 
@@ -211,6 +346,10 @@
 
 
 <figure class="wp-block-table"><table><thead><tr><th>Day</th><th>Summary of Contents</th></tr></thead><tbody><tr><td>Nov 1</td><td>Insider documents state, &#8220;donation is Japaneses&#8217; responsibility&#8221;</td></tr><tr><td>Nov 2</td><td>Insider documents say, &#8220;sacrifice Japanese for Korea&#8221;</td></tr><tr><td>Nov 3</td><td>accusing the LDP&#8217;s relationship with the &#8220;Unification Church&#8221; at the Kumamoto prefecture</td></tr><tr><td>Nov 6</td><td>focus on the &#8220;second generation,&#8221; how they were badly treated on &#8220;Syuren(similar to summer camp but more spiritual)&#8221; in Korea</td></tr><tr><td>Nov 7</td><td>accusing the LDP&#8217;s relationship with the &#8220;Unification Church,&#8221; especially the LDP&#8217;s position of significant responsibility</td></tr><tr><td>Nov 8</td><td>focus on the hearing from ex &#8220;Unification Church&#8221; and Jehovah&#8217;s Witnesses by the opposition parties in the house of representatives, the importance of making a clear guideline for spiritual abuse</td></tr><tr><td>Nov 9</td><td>the Prime Minister said the &#8220;rescue bill&#8221; for victims of spiritual sales would deliberate on this session of Diet</td></tr><tr><td>Nov 12</td><td>the government sent 9.55M JPY for a &#8220;Unification Church&#8221; related school in Senegal as ODA</td></tr><tr><td>Nov 18</td><td>illegal nature of &#8220;Unification Church&#8217;s&#8221; activities (preaching, donation, spiritual sales, etc.) based on past court cases</td></tr><tr><td>Nov 19</td><td>reporting the abstract of the &#8220;rescue bill&#8221;</td></tr><tr><td>Nov 22</td><td>&#8220;second generation&#8221; experiences violating of human rights based on religious activities through online investigation</td></tr><tr><td>Nov 23</td><td>Experience of one ex &#8220;Unification Church&#8221; member, including hiding sexual assault when they were committing religious activities</td></tr><tr><td>Nov 26</td><td>accusing the LDP&#8217;s relationship with &#8220;Unification Church&#8221;; experience of one ex &#8220;Unification Church&#8221; member, traumatic experience during college, including physical assault</td></tr><tr><td>Nov 28</td><td>Reporting the event that discussed the media&#8217;s attitude towards &#8220;Unification Church&#8221; related problems</td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>Day</th><th>Summary of Contents</th></tr></thead><tbody><tr><td>Dec 1</td><td>Require to recoup of an ODA for Senegal due to its relationships with the &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 3</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 4</td><td>Reports the discussion table named &#8220;reveal Unification Church&#8217;s reality,&#8221; which JCP diet members joined</td></tr><tr><td>Dec 5</td><td>Focuses on adoption organized by the &#8220;Unification Church,&#8221; which violates Japanese law that controls adoption agency</td></tr><tr><td>Dec 6</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; &#8211; especially restrictions against donation</td></tr><tr><td>Dec 7</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 8</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 9</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet enacted &#8220;rescue bill&#8221;</td></tr><tr><td>Dec 10</td><td>Reports signature-collecting campaign which asks the government to dissolve the corporate status of &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 11</td><td>Ask for reconsideration of &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet had enacted &#8220;rescue bill&#8221; and had ended</td></tr><tr><td>Dec 24</td><td>Examining why a considerable amount of &#8220;victims&#8221; of &#8220;Unification Church&#8221; is female</td></tr><tr><td>Dec 27</td><td>Reports the petition by &#8220;second-generation&#8221; that asks governments to make &#8220;rescue bill&#8221; more &#8220;effective&#8221;</td></tr><tr><td>Dec 28</td><td>Reports the Guidelines for Spiritual-related Child Abuses by MHLW</td></tr><tr><td>Dec 31</td><td>Reports the petition led by the former president of &#8220;Unification Church&#8221; that asks the government to reconsider the order to dissolve religious corporation</td></tr></tbody></table></figure>
 
 
 
@@ -720,101 +859,6 @@
 <blockquote class="wp-block-quote">
 <p>“【全文ノーカット】旧統一教会・田中富広会長会見「政治的介入や不正はない」: TBS News Dig (1ページ).” TBS NEWS DIG. TOKYO BROADCASTING SYSTEM TELEVISION, INC.　, August 10, 2022. https://newsdig.tbs.co.jp/articles/-/120753?display=1.</p>
 </blockquote>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Read News Articles and Press Conferences by &#8220;Unification Church&#8221; &#8211; Day 1</title>
-		<link>/2022/12/24/december-24/</link>
-		
-		<dc:creator><![CDATA[sato]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 00:00:52 +0000</pubDate>
-				<category><![CDATA[Winter Term 2023]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=35</guid>
-
-					<description><![CDATA[Read News Articles and Press Conferences by &#8220;Unification Church&#8221; &#8211; Day 1 Since I have not been in Japan for about four months, I am not knowledgeable about the current situation in Japan. Thus, I decided to read some articles about the &#8220;Unification Church&#8221; from mainstream media. Before starting my journal, I would like to [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<h3>Read News Articles and Press Conferences by &#8220;Unification Church&#8221; &#8211; Day 1</h3>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-
-
-
-<p>Since I have not been in Japan for about four months, I am not knowledgeable about the current situation in Japan. Thus, I decided to read some articles about the &#8220;Unification Church&#8221; from mainstream media.</p>
-
-
-
-<p>Before starting my journal, I would like to convey the use of the &#8220;Unification Church&#8221; in Japan. Pious believers of &#8220;Unification Church&#8221; are known as &#8220;Moonies&#8221; in English, and they changed their name to &#8220;The Family Federation for World Peace and Unification&#8221; for the sake of erasing its notoriety. However, because the term &#8220;Unification Church&#8221; is widely recognized in Japan, the media continues to use &#8220;Unification Church.&#8221;</p>
-
-
-
-<p>For the next five to eight days, I will read as many Japanese articles for several fields and summarize them in English. The summarization would be the journal for the first days of Japan since</p>
-
-
-
-<ol>
-<li>Prevent spreading COVID, R.S.V., flu around by interviewing people in-person;</li>
-
-
-
-<li>Re-capping current Japanese media&#8217;s attitude towards the &#8220;Unification Church&#8221; and its related problems;</li>
-
-
-
-<li>Jet lag might not allow me to behave like those in Japan.</li>
-</ol>
-
-
-
-<p>Today, I will focus on the dynamic changes in the media&#8217;s way of presenting this issue to the public.</p>
-
-
-
-<p>The situation surrounding media have been shifting quickly. Before I left Japan, most of the media didn&#8217;t mention the &#8220;Unification Church,&#8221; Instead, they called it &#8220;the Religious Group.&#8221; I don&#8217;t know why they didn&#8217;t say about the &#8220;Unification Church&#8221; despite the media from the US or Europe mentioning the &#8220;Unification Church&#8221; or &#8220;Moonies&#8221; at that moment. However, this weird regard didn&#8217;t last long.</p>
-
-
-
-<p>On July 11, the head of the Church&#8217;s Japanese organization held a press conference to express their official statements with a &#8220;selected&#8221; medium. After the first conference, all the TVs and newspapers started using &#8220;Unification Church&#8221; because they could finally convey both sides&#8217; information about the problem. After the conference, the &#8220;Unification Church&#8221; organized some panels, so tomorrow, I will focus on these events and other announcements from the Church.</p>
-
-
-
-<div style="height:2vw" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h5>References</h5>
-
-
-
-<ul>
-<li><a href="https://news.yahoo.co.jp/byline/soichiromatsutani/20220905-00313548">The graph of the TV coverage time about &#8220;Unification Church&#8221;</a>
-<ul>
-<li>Matsutani, Soichiro. “統一教会の抗議でテレビは萎縮したのか？──安倍元首相銃撃から２か月、テレビ報道量の推移（松谷創一郎） &#8211; 個人.” Yahoo!ニュース. Yahoo!ニュース, September 8, 2022. https://news.yahoo.co.jp/byline/soichiromatsutani/20220905-00313548.</li>
-</ul>
-</li>
-
-
-
-<li><a href="https://news.yahoo.co.jp/articles/e16c0069ffc9b8767be7b4bbc832328b82877551">The reason why TV and newspapers didn&#8217;t use &#8220;Unification Church&#8221; at first</a>
-<ul>
-<li>&#8220;当初は匿名報道のテレビが「統一教会」を厳しく報道し始めたワケ（Friday）.&#8221; Yahoo!ニュース. Yahoo!ニュース, July 16, 2022. https://news.yahoo.co.jp/articles/e16c0069ffc9b8767be7b4bbc832328b82877551. Friday is Japanese news/gossip magazine.</li>
-</ul>
-</li>
-
-
-
-<li><a href="https://www.businessinsider.jp/post-256503">Script of the first press conference by &#8220;Unification Church&#8221;</a>
-<ul>
-<li>Yokoyama, Kotaro, and Rio Nishiyama, eds. “旧・統一教会が会見｢動機だとすれば重く受け止める｣田中会長が語る【会見全文】.” BUSINESS INSIDER JAPAN. BUSINESS INSIDER JAPAN, July 29, 2022. https://www.businessinsider.jp/post-256503.</li>
-</ul>
-</li>
-</ul>
 ]]></content:encoded>
 					
 		
