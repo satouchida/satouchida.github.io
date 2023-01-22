@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Google Trends &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/google-trends/feed/?simply_static_page=761" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/google-trends/feed/?simply_static_page=846" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 20 Jan 2023 14:59:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Jan 2023 02:59:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,13 +31,13 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=228</guid>
 
-					<description><![CDATA[Jan 15 &#8211; Jan 20 #### The API I used for gathering information other parameters I would like to use Problems]]></description>
+					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
 <h4 class="has-text-align-center">Jan 15 &#8211; Jan 20</h4>
 
 
 
-<h2>#### The API I used for gathering information</h2>
+<h2>The API I used for gathering information</h2>
 
 
 
