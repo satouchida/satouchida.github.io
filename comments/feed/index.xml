@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: About Me	</title>
-	<atom:link href="/about-me/feed/?simply_static_page=903" rel="self" type="application/rss+xml" />
+	Comments for Satoru Uchida	</title>
+	<atom:link href="/comments/feed/?simply_static_page=897" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Jan 2023 13:24:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jan 2023 09:18:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
