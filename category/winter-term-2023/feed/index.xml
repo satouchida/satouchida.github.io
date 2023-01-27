@@ -12,7 +12,7 @@
 	<atom:link href="/category/winter-term-2023/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 Jan 2023 05:44:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jan 2023 06:01:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -91,13 +91,13 @@
 
 
 
-<div class="is-layout-flex wp-container-2 wp-block-columns">
-<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <p>&lt;Figure 1&gt;</p>
 
 
 
-<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Z1Xg3bt7YURoutWRvrGBGN0Jb4hTeKqXPCqkrLmg3dP9JN0BwlwxltN1EVt_OXvzi2-EmYqpiDgm/pubchart?oid=853583405&amp;format=interactive"></iframe>
+<div class="iframe-wrap">
+<iframe seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Z1Xg3bt7YURoutWRvrGBGN0Jb4hTeKqXPCqkrLmg3dP9JN0BwlwxltN1EVt_OXvzi2-EmYqpiDgm/pubchart?oid=853583405&amp;format=interactive"></iframe>
+</div>
 
 
 
@@ -105,7 +105,9 @@
 
 
 
-<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNwYgt0DuU0_TXeAjTCWFDPMWZgJAHl2a5yhPnB6Zkaiucjoe3DEj6LCB1grwKO6lPt-_jrrUagBA2/pubchart?oid=1091730905&amp;format=interactive"></iframe>
+<div class="iframe-wrap">
+<iframe seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNwYgt0DuU0_TXeAjTCWFDPMWZgJAHl2a5yhPnB6Zkaiucjoe3DEj6LCB1grwKO6lPt-_jrrUagBA2/pubchart?oid=1091730905&amp;format=interactive"></iframe>
+</div>
 
 
 
@@ -113,8 +115,8 @@
 
 
 
-<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
-</div>
+<div class="iframe-wrap">
+<iframe seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
 </div>
 ]]></content:encoded>
 					
