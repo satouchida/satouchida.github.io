@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Google Trends &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/google-trends/feed/?simply_static_page=939" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/google-trends/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 22 Jan 2023 02:59:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jan 2023 05:44:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,108 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
+		<link>/2023/01/27/jan-27/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2023 00:00:55 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Google Trends]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Unification Church]]></category>
+		<guid isPermaLink="false">/?p=272</guid>
+
+					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h3>Abstract</h3>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<h4>Background</h4>
+
+
+
+<p>The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in the organization. It means a decrease in the public interest against the &#8220;Unification Church&#8221; directly affects supporting those who have been spiritually abused. Analyzing the huge number of queries gathered by Google services reveals the public interest in the &#8220;Unification Church.&#8221;</p>
+
+
+
+<h4>Objectives</h4>
+
+
+
+<p>Using Google Trends, I studied the public interest in queries towards <em>unification</em>, <em>unification church</em>, <em>former unification church</em>, and <em>family federation</em>. Each word is originally Japanese. I hypothesize that these data may be correlated with the assassination of Shinzo Abe and upcoming reports about the &#8220;Unification Church.&#8221;</p>
+
+
+
+<h4>Methods</h4>
+
+
+
+<p>Google Trends was employed to normalize search queries on Google Search, Youtube Search, and Google News on a scale from 0 (includes 0% to &lt;1% of the peak volume) to 100 (peak of traffic) presented as weekly relative search volume (RSV) treating <em>unification</em>, <em>unification church</em>, <em>former unification church</em>, and <em>family federation</em> as search terms. A search time series covered the last 260 weeks (January 2018 to January 2023), and the RSV of all terms was compared with their weekly volumes. Respective trendlines were employed to estimate overall trends.</p>
+
+
+
+<h4>Results</h4>
+
+
+
+<p>I found a dramatic trend immediately after the assassination of Shinzo Abe, but it shrunk quickly. Before the assassination, there was almost no interest in the &#8220;Unification Church,&#8221; while Shinzo Abe and other ruling party members attended events held by the &#8220;Unification Church&#8221; and its related organizations.</p>
+
+
+
+<h4>Conclusions</h4>
+
+
+
+<p>Considering these findings, it may be reasonable to say the media have consumed the &#8220;Unification Church&#8221; related reports. After a certain period that those media conveyed sensational reports, public interest in the &#8220;Unification Church&#8221; shrunk. This investigation utilized Youtube queries, Google search, and Google News; thus, it would include those who gain information mainly from Youtube and other video platforms.</p>
+
+
+
+<p>Followed the abstraction structure of the paper below:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Vasconcellos-Silva, Paulo Roberto et al. “Using Google Trends Data to Study Public Interest in Breast Cancer Screening in Brazil: Why Not a Pink February?.” JMIR public health and surveillance vol. 3,2 e17. 6 Apr. 2017, doi:10.2196/publichealth.7015</p>
+</blockquote>
+
+
+
+<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<p>&lt;Figure 1&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Z1Xg3bt7YURoutWRvrGBGN0Jb4hTeKqXPCqkrLmg3dP9JN0BwlwxltN1EVt_OXvzi2-EmYqpiDgm/pubchart?oid=853583405&amp;format=interactive"></iframe>
+
+
+
+<p>&lt;Figure 2&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNwYgt0DuU0_TXeAjTCWFDPMWZgJAHl2a5yhPnB6Zkaiucjoe3DEj6LCB1grwKO6lPt-_jrrUagBA2/pubchart?oid=1091730905&amp;format=interactive"></iframe>
+
+
+
+<p>&lt;Figure 3&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Utilize Google Trends for the sake of examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
 		<link>/2023/01/20/jan-17-jan-20/</link>
 		
@@ -31,13 +133,13 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=228</guid>
 
-					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information other parameters I would like to use Problems]]></description>
+					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
-<h4 class="has-text-align-center">Jan 15 &#8211; Jan 20</h4>
+<h4 class="has-text-align-left">Jan 15 &#8211; Jan 20</h4>
 
 
 
-<h2>The API I used for gathering information</h2>
+<h5>The API I used for gathering information</h5>
 
 
 
@@ -130,7 +232,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>other parameters I would like to use</h5>
+<h5>Other parameters I would like to use</h5>
 
 
 
@@ -144,7 +246,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h6>Problems</h6>
+<h5>Problems</h5>
 
 
 
@@ -155,6 +257,10 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 <pre class="wp-block-code"><code>pytrends.exceptions.ResponseError: The request failed: Google returned a response with code 429.</code></pre>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		

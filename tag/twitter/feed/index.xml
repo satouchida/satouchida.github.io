@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Twitter &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/twitter/feed/?simply_static_page=963" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/twitter/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Jan 2023 10:04:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jan 2023 02:58:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,9 @@
 		<category><![CDATA[Twitter]]></category>
 		<guid isPermaLink="false">/?p=51</guid>
 
-					<description><![CDATA[Trying to correct twitter data Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; [&#8230;]]]></description>
+					<description><![CDATA[Jan 3 Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h3>Trying to correct twitter data</h3>
+<h4>Jan 3</h4>
 
 
 
@@ -69,9 +69,9 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=49</guid>
 
-					<description><![CDATA[Correcting Twitter data as a piece of public opinion From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I [&#8230;]]]></description>
+					<description><![CDATA[Jan 2 From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I aim to gather two different but overlapping [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h3>Correcting Twitter data as a piece of public opinion</h3>
+<h4>Jan 2</h4>
 
 
 

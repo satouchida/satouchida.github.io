@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Winter Term 2023 &#8211; Satoru Uchida</title>
-	<atom:link href="/category/winter-term-2023/feed/?simply_static_page=976" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/winter-term-2023/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Jan 2023 09:18:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jan 2023 05:44:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,108 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
+		<link>/2023/01/27/jan-27/</link>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2023 00:00:55 +0000</pubDate>
+				<category><![CDATA[Winter Term 2023]]></category>
+		<category><![CDATA[Google Trends]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Unification Church]]></category>
+		<guid isPermaLink="false">/?p=272</guid>
+
+					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h3>Abstract</h3>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<h4>Background</h4>
+
+
+
+<p>The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in the organization. It means a decrease in the public interest against the &#8220;Unification Church&#8221; directly affects supporting those who have been spiritually abused. Analyzing the huge number of queries gathered by Google services reveals the public interest in the &#8220;Unification Church.&#8221;</p>
+
+
+
+<h4>Objectives</h4>
+
+
+
+<p>Using Google Trends, I studied the public interest in queries towards <em>unification</em>, <em>unification church</em>, <em>former unification church</em>, and <em>family federation</em>. Each word is originally Japanese. I hypothesize that these data may be correlated with the assassination of Shinzo Abe and upcoming reports about the &#8220;Unification Church.&#8221;</p>
+
+
+
+<h4>Methods</h4>
+
+
+
+<p>Google Trends was employed to normalize search queries on Google Search, Youtube Search, and Google News on a scale from 0 (includes 0% to &lt;1% of the peak volume) to 100 (peak of traffic) presented as weekly relative search volume (RSV) treating <em>unification</em>, <em>unification church</em>, <em>former unification church</em>, and <em>family federation</em> as search terms. A search time series covered the last 260 weeks (January 2018 to January 2023), and the RSV of all terms was compared with their weekly volumes. Respective trendlines were employed to estimate overall trends.</p>
+
+
+
+<h4>Results</h4>
+
+
+
+<p>I found a dramatic trend immediately after the assassination of Shinzo Abe, but it shrunk quickly. Before the assassination, there was almost no interest in the &#8220;Unification Church,&#8221; while Shinzo Abe and other ruling party members attended events held by the &#8220;Unification Church&#8221; and its related organizations.</p>
+
+
+
+<h4>Conclusions</h4>
+
+
+
+<p>Considering these findings, it may be reasonable to say the media have consumed the &#8220;Unification Church&#8221; related reports. After a certain period that those media conveyed sensational reports, public interest in the &#8220;Unification Church&#8221; shrunk. This investigation utilized Youtube queries, Google search, and Google News; thus, it would include those who gain information mainly from Youtube and other video platforms.</p>
+
+
+
+<p>Followed the abstraction structure of the paper below:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Vasconcellos-Silva, Paulo Roberto et al. “Using Google Trends Data to Study Public Interest in Breast Cancer Screening in Brazil: Why Not a Pink February?.” JMIR public health and surveillance vol. 3,2 e17. 6 Apr. 2017, doi:10.2196/publichealth.7015</p>
+</blockquote>
+
+
+
+<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<p>&lt;Figure 1&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Z1Xg3bt7YURoutWRvrGBGN0Jb4hTeKqXPCqkrLmg3dP9JN0BwlwxltN1EVt_OXvzi2-EmYqpiDgm/pubchart?oid=853583405&amp;format=interactive"></iframe>
+
+
+
+<p>&lt;Figure 2&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNwYgt0DuU0_TXeAjTCWFDPMWZgJAHl2a5yhPnB6Zkaiucjoe3DEj6LCB1grwKO6lPt-_jrrUagBA2/pubchart?oid=1091730905&amp;format=interactive"></iframe>
+
+
+
+<p>&lt;Figure 3&gt;</p>
+
+
+
+<iframe width="100%" height="auto" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Administrative Guidance for the &#8220;Unification Church&#8221; about children&#8217;s adoption</title>
 		<link>/2023/01/24/jan-24/</link>
 		
@@ -33,7 +135,7 @@
 
 					<description><![CDATA[Jan 24 Summary Jan 23, MHLW announced they did administrative guidance against the &#8220;Unification Church&#8221; because of their work as an adoption agency, which they did not register. Japanese law dictates adoption agencies register for children&#8217;s adoption. So the &#8220;Unification Church&#8221; did illegal work, and this had been questioning by attempting &#8220;Requesting Reports and Asking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h3>Jan 24</h3>
+<h4>Jan 24</h4>
 
 
 
@@ -215,13 +317,13 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=228</guid>
 
-					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information other parameters I would like to use Problems]]></description>
+					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
-<h4 class="has-text-align-center">Jan 15 &#8211; Jan 20</h4>
+<h4 class="has-text-align-left">Jan 15 &#8211; Jan 20</h4>
 
 
 
-<h2>The API I used for gathering information</h2>
+<h5>The API I used for gathering information</h5>
 
 
 
@@ -314,7 +416,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>other parameters I would like to use</h5>
+<h5>Other parameters I would like to use</h5>
 
 
 
@@ -328,7 +430,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h6>Problems</h6>
+<h5>Problems</h5>
 
 
 
@@ -339,6 +441,10 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 <pre class="wp-block-code"><code>pytrends.exceptions.ResponseError: The request failed: Google returned a response with code 429.</code></pre>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
@@ -358,33 +464,33 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=236</guid>
 
-					<description><![CDATA[Jan 17 After I graduated from high school, I made an appointment with one professor who are specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unificaiton Church.&#8221; He is very kind for me, and he invited me to join one of his classes for graduate students. It was before the assasination of Shinzo [&#8230;]]]></description>
+					<description><![CDATA[Jan 17 After graduating high school, I made an appointment with one professor who specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unification Church.&#8221; He is very kind to me and invited me to join one of his classes for graduate students. It was before the assassination of Shinzo Abe, so I was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h3>Jan 17</h3>
+<h4>Jan 17</h4>
 
 
 
-<p>After I graduated from high school, I made an appointment with one professor who are specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unificaiton Church.&#8221; He is very kind for me, and he invited me to join one of his classes for graduate students.</p>
+<p>After graduating high school, I made an appointment with one professor who specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unification Church.&#8221; He is very kind to me and invited me to join one of his classes for graduate students.</p>
 
 
 
-<p>It was before the assasination of Shinzo Abe, so I was just one of the rare example of those who have experienced spiritual abuse by parents and luckly Japanese Child Consultation Center (CPS-like organization) decided to took me from my parents. I learned many things from he and his students. How to investigate the impact of spiritual abuse or the existance of research center that focuses on conspiracy theory is the examples.</p>
+<p>It was before the assassination of Shinzo Abe, so I was just one of the rare examples of those who have experienced spiritual abuse by parents, and luckily Japanese Child Consultation Center (CPS-like organization) decided to take me from my parents. I learned many things from him and his students. The examples are how to investigate the impact of spiritual abuse or the existence of a research center that focuses on conspiracy theories.</p>
 
 
 
-<p>It is final period in Japan, so he and his students seemed very busy but they were warmly accepted me. One of his student are working on investigating the longer effect of spiritual abuse by surveying former followers of &#8220;Unification Church,&#8221; Jehovah&#8217;s Witnesses, Happy Sciences, and some other new religions in Japan. I briefly reviewed the draft of questionere, and gave some advice in the use of languages.</p>
+<p>It was the final period in Japan, so he and his students seemed very busy, but they warmly accepted me. One of his students is working on investigating the longer effect of spiritual abuse by surveying former followers of &#8220;Unification Church,&#8221; Jehovah&#8217;s Witnesses, Happy Sciences, and some other new religions in Japan. I briefly reviewed the draft of the questionnaire and gave some advice on the use of languages.</p>
 
 
 
-<p>After that, me and professor talked about current situation. He worried about the decrease of public interest against &#8220;Unification Church&#8221; and spiritual abuse since currently Japanese government seems they want to stop discussing about this problem more because they made &#8220;rescue bill,&#8221; which he thinks not enough. But he worked for the guideline for Spiritual and close sorts of Child Abuses by MHLW, and both of us feels it is enough to help children and youths who are suffering.</p>
+<p>After that, the professor talked about the current situation. He worried about the decrease of public interest in the &#8220;Unification Church&#8221; and spiritual abuse since the Japanese government currently seems they want to stop discussing this problem more because they made a &#8220;rescue bill,&#8221; which he thinks is not enough. But he worked for the guideline for Spiritual and close sorts of Child Abuse by MHLW, and we both feel it is enough to help children and youths who are suffering.</p>
 
 
 
-<p>However, since he is a Social Psychologist, he knows there are few psychologists who can deal with this kind of complex problem. Because of that, he now aims to seek the way to increase the number of psychologists who have basic knowledge about religion and spiritual abuse through their education while trying to increase the number of students who want to be a psychologist.</p>
+<p>However, since he is a Social Psychologist, he knows few psychologists can deal with this complex problem. Because of that, he now aims to seek a way to increase the number of psychologists who have basic knowledge about religion and spiritual abuse through their education while trying to increase the number of students who want to be a psychologist.</p>
 
 
 
-<p>Finally he said it is very precious that I, who have been experienced spiritual abuse and its after effects while interested in spiritual abuse and advocating individual rights, am studying outside Japan because this studying opportunity will give me new perspective that cannot be gaind from Japan. I don&#8217;t know how or if I contribute to this problem so far, but definetly I can work for that in the future.</p>
+<p>Finally, he said it is very precious that I, who have experienced spiritual abuse and its after-effects while interested in spiritual abuse and advocating individual rights, am studying outside of Japan because this studying opportunity will give me a new perspective that cannot be gained from Japan. I don&#8217;t know how or if I have contributed to this problem so far, but I can definitely work on that in the future.</p>
 ]]></content:encoded>
 					
 		
@@ -403,33 +509,33 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=234</guid>
 
-					<description><![CDATA[Jan 15 We met at nearest shopping center of us. She is one of the referee of me when I won scholarship from Japanese foundation, and she have been worked for me since I joined my previous residence after I left my home. We have kept in touch during fall semester, so it is natural [&#8230;]]]></description>
+					<description><![CDATA[Jan 15 We met at the nearest shopping center of us. She was one of my referees of me when I won a scholarship from a Japanese foundation, Grew-Bancroft, and she has worked for me since I joined my previous residence after I left my home. We have kept in touch during the fall semester, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <h4>Jan 15</h4>
 
 
 
-<p>We met at nearest shopping center of us. She is one of the referee of me when I won scholarship from Japanese foundation, and she have been worked for me since I joined my previous residence after I left my home. We have kept in touch during fall semester, so it is natural for both of us to meet in person.</p>
+<p>We met at the nearest shopping center of us. She was one of my referees of me when I won a scholarship from a Japanese foundation, Grew-Bancroft, and she has worked for me since I joined my previous residence after I left my home. We have kept in touch during the fall semester, so it is natural for us to meet in person.</p>
 
 
 
-<p>At the table, we mainly talked about our shared interest: spiritual abuse from the parents. Because of the publication of the guideline for Spiritual and close sorts of Child Abuses by the government, we discussed about that while talking about my curennt academic interest and college life in general. Both of us appriciate the guideline since it will certainly help those who are suffering spiritual abuse, but we worried about the lack of experts who can deal with this irregular types of abuses.</p>
+<p>At the table, we mainly talked about our shared interest: spiritual abuse from the parents. Because of the publication of the guideline for Spiritual and close sorts of Child Abuse by the government, we discussed my current academic interest and college life in general. Both of us appreciate the guideline since it will help those suffering spiritual abuse. Still, we are worried about the lack of experts who can deal with these irregular types of abuses.</p>
 
 
 
-<p>Also while I worried about the politicalization of the argument about &#8220;Unification Church&#8221; and spiritual abuse, she accepts its politicalization because she believes it is the best and fastest way to rescue those who are suffering.</p>
+<p>Also, while I am worrying about the politicization of the argument about the &#8220;Unification Church&#8221; and spiritual abuse, she accepted its politicization because she believes it is the best and fastest way to rescue those who are suffering.</p>
 
 
 
-<p>When it comes to political standpoints of us, I feel I am little bit of conservative left while she seems liberal of liberal. Because of that she is wholeheartedly working for advocating children&#8217;s rights. I also wish to expand children&#8217;s rights, but I don&#8217;t feel current Japanese situation is healthy. It seems like Japanese ruling and opposit parties are depending on one-side information and purging one religious corporation. Despite the &#8220;Unification Church&#8221; has been decieved many people through spiritual sales and illegal preaching, it is one of the certified religious coporations in Japan and I think I should respect it while enforcing law against its illegal behaviors.</p>
+<p>When it comes to political standpoints of us, I feel I am a little bit conservative left while she seems liberal of liberal. Because of that, she is wholeheartedly working to advocate for children&#8217;s rights. I also wish to expand children&#8217;s rights, but I don&#8217;t feel the current Japanese situation is healthy. Japanese ruling and opposition parties seem to depend on one-sided information and purge one religious corporation. Although the &#8220;Unification Church&#8221; has deceived many people through spiritual sales and illegal preaching, it is one of the certified religious corporations in Japan. I think I should respect it while enforcing the law against its illegal behaviors.</p>
 
 
 
-<p>Because of this kind of thought, I decided to read right-wing magazines and seek around what Japanese right-wings are thinking about this problem. When I told this plan for her, she was interested in that and said please teach me when you find something interesting.</p>
+<p>Because of this kind of thought, I decided to read right-wing magazines and seek what Japanese right wings are thinking about this problem. When I told this plan for her, she was interested in that and said please teach me when you find something interesting.</p>
 
 
 
-<p>It was only dinner, so we couldn&#8217;t talk much. But I think I found some interesting different perspective from her. This short but prolific conversation, I decided to focus on the interest for this problem based on right/left wings.</p>
+<p>It was only dinner, so that we couldn&#8217;t talk much. But I think I found some interesting different perspectives from her. In this short but prolific conversation, I decided to focus on the interest for this problem based on right/left wings.</p>
 ]]></content:encoded>
 					
 		
@@ -446,8 +552,12 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=188</guid>
 
-					<description><![CDATA[On January 14, Japanese prosecutors at the Nara prosecutor&#8217;s office said they finished the psychiatric evaluation of Tetsuya Yamagami, who got indicted on murder and firearm charges. The news reports that Yamagami wants higher education after his service term. I assume he wants an education that he could not get when he was young. Ogura, [&#8230;]]]></description>
+					<description><![CDATA[Jan 14 On January 14, Japanese prosecutors at the Nara prosecutor&#8217;s office said they finished the psychiatric evaluation of Tetsuya Yamagami, who got indicted on murder and firearm charges. The news reports that Yamagami wants higher education after his service term. I assume he wants an education that he could not get when he was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<h4>Jan 14</h4>
+
+
+
 <p>On January 14, Japanese prosecutors at the Nara prosecutor&#8217;s office said they finished the psychiatric evaluation of Tetsuya Yamagami, who got indicted on murder and firearm charges.</p>
 
 
@@ -480,8 +590,12 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=185</guid>
 
-					<description><![CDATA[Today I met with my friend, who is studying at International Christian University as a senior. She finally decided to major in Anthropology, but she was also interested in advocation for children. She has worked on Save the Children Japan and advocated for educating the treatment of children&#8217;s rights. We talked about many things, especially [&#8230;]]]></description>
+					<description><![CDATA[Jan 10 Today I met with my friend, who is studying at International Christian University as a senior. She finally decided to major in Anthropology, but she was also interested in advocation for children. She has worked on Save the Children Japan and advocated for educating the treatment of children&#8217;s rights. We talked about many [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<h4>Jan 10</h4>
+
+
+
 <p>Today I met with my friend, who is studying at International Christian University as a senior. She finally decided to major in Anthropology, but she was also interested in advocation for children. She has worked on Save the Children Japan and advocated for educating the treatment of children&#8217;s rights.</p>
 
 
@@ -526,9 +640,9 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=58</guid>
 
-					<description><![CDATA[Jan 6 &#8211; Jan 9 &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, we have not discussed &#8220;Unification Church&#8221; and its related issues. Akahata (newspaper published by the Japanese Communist Party, JCP) 赤旗編集局, 日本共産党中央委員会機関紙誌業務部, and 日本共産党中央委員会出版局. 2004. しんぶん赤旗. 縮刷版[CD-ROM] ed. 日本共産党中央委員会機関紙誌業務部; 日本共産党中央委員会出版局 (発売). https://ci.nii.ac.jp/ncid/AA11954267. Oct 2022 Day Summary of Contents Oct [&#8230;]]]></description>
+					<description><![CDATA[Jan 6 &#8211; Jan 9 (last added Jan 27) &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, they often discussed about this issue. On Jan 2023, they featured the &#8220;Unification Church&#8221; related issues. Hanada (added Jan 27) 杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81. Akahata (newspaper published by the Japanese Communist [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 6 &#8211; Jan 9</h4>
+<h4>Jan 6 &#8211; Jan 9 (last added Jan 27)</h4>
 
 
 
@@ -565,18 +679,70 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
+<li>阿比留瑠比. 「空気」が支配する日本社会の異常. 産経新聞社, 2022.</li>
+
+
+
 <li>One justified its relationships with the &#8220;Unification Church,&#8221; arguing how the impact of the church was small for the ruling party, Liberal Democratic Party (LDP)</li>
 
 
 
+<li>八木秀次. 「反アベ」の狂気ここに極まれり. 産経新聞社, 2022.</li>
+
+
+
 <li>One criticized both right and left wings for this problem while partly praising the &#8220;Unification Church&#8221; related organizations&#8217; works, primarily related to N. Korea&#8217;s kidnapping of the Japanese.</li>
+
+
+
+<li>三浦小太郎. 旧統一教会問題の本質は何か. 産経新聞社, 2022.</li>
 </ul>
 </li>
 </ul>
 
 
 
-<p>After Oct 2022, we have not discussed &#8220;Unification Church&#8221; and its related issues.</p>
+<p>After Oct 2022, they often discussed about this issue. On Jan 2023, they featured the &#8220;Unification Church&#8221; related issues.</p>
+
+
+
+<h5>Hanada (added Jan 27)</h5>
+
+
+
+<blockquote class="wp-block-quote">
+<p>杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81.</p>
+</blockquote>
+
+
+
+<ul>
+<li>2023 Feb, &#8220;Condemning the &#8216;which hunt by media reports of the Unification Church'&#8221;
+<ul>
+<li>Criticize the attitude of media and politics</li>
+
+
+
+<li>Insists the &#8220;Unification Church&#8221; had not recognized guilty by the court for the assassination of Shinzo Abe</li>
+
+
+
+<li>Criticize the government&#8217;s statement of &#8220;cutting off relations with Unification Church&#8221; before the order of dissolution (note: the order of dissolution haven&#8217;t released on Jan 27)</li>
+
+
+
+<li>Supports the doctrine of &#8220;Unification Church,&#8221; which advocates protecting &#8220;family&#8221; aside from their problematic spiritual sales</li>
+
+
+
+<li>Argue how Japanese hates religion after terrorism by Aum</li>
+
+
+
+<li>excerpts &#8220;Unification Church&#8221; related media&#8217;s opinion as &#8220;fair and reasonable&#8221;</li>
+</ul>
+</li>
+</ul>
 
 
 
@@ -624,7 +790,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<figure class="wp-block-table"><table><thead><tr><th>Day</th><th>Summary of Contents</th></tr></thead><tbody><tr><td>Dec 1</td><td>Require to recoup of an ODA for Senegal due to its relationships with the &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 3</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 4</td><td>Reports the discussion table named &#8220;reveal Unification Church&#8217;s reality,&#8221; which JCP diet members joined</td></tr><tr><td>Dec 5</td><td>Focuses on adoption organized by the &#8220;Unification Church,&#8221; which violates Japanese law that controls adoption agency</td></tr><tr><td>Dec 6</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; &#8211; especially restrictions against donation</td></tr><tr><td>Dec 7</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 8</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 9</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet enacted &#8220;rescue bill&#8221;</td></tr><tr><td>Dec 10</td><td>Reports signature-collecting campaign which asks the government to dissolve the corporate status of &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 11</td><td>Ask for reconsideration of &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet had enacted &#8220;rescue bill&#8221; and had ended</td></tr><tr><td>Dec 24</td><td>Examining why a considerable amount of &#8220;victims&#8221; of &#8220;Unification Church&#8221; is female</td></tr><tr><td>Dec 27</td><td>Reports the petition by &#8220;second-generation&#8221; that asks governments to make &#8220;rescue bill&#8221; more &#8220;effective&#8221;</td></tr><tr><td>Dec 28</td><td>Reports the Guidelines for Spiritual-related Child Abuses by MHLW</td></tr><tr><td>Dec 31</td><td>Reports the petition led by the former president of &#8220;Unification Church&#8221; that asks the government to reconsider the order to dissolve religious corporation</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th>Day</th><th>Summary of Contents</th></tr></thead><tbody><tr><td>Dec 1</td><td>Require to recoup of an ODA for Senegal due to its relationships with the &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 3</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 4</td><td>Reports the discussion table named &#8220;reveal Unification Church&#8217;s reality,&#8221; which JCP diet members joined</td></tr><tr><td>Dec 5</td><td>Focuses on adoption organized by the &#8220;Unification Church,&#8221; which violates Japanese law that controls adoption agency</td></tr><tr><td>Dec 6</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; &#8211; especially restrictions against donation</td></tr><tr><td>Dec 7</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 8</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221;</td></tr><tr><td>Dec 9</td><td>Ask for reconsideration of the &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet enacted &#8220;rescue bill&#8221;</td></tr><tr><td>Dec 10</td><td>Reports signature-collecting campaign which asks the government to dissolve the corporate status of &#8220;Unification Church&#8221;</td></tr><tr><td>Dec 11</td><td>Ask for reconsideration of &#8220;rescue bill&#8221; to make it more &#8220;effective&#8221; despite the Diet had enacted &#8220;rescue bill&#8221; and had ended</td></tr><tr><td>Dec 24</td><td>Examining why a considerable amount of &#8220;victims&#8221; of &#8220;Unification Church&#8221; is female</td></tr><tr><td>Dec 27</td><td>Reports the petition by &#8220;second-generation&#8221; that asks governments to make &#8220;rescue bill&#8221; more &#8220;effective&#8221;</td></tr><tr><td>Dec 28</td><td>Reports the Guidelines for Spiritual-related Child Abuses by MHLW</td></tr><tr><td>Dec 31</td><td>Reports the petition led by the former president of &#8220;Unification Church&#8221; that asks the government to reconsider the order to dissolve the religious corporation</td></tr></tbody></table></figure>
 
 
 
@@ -654,9 +820,9 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=56</guid>
 
-					<description><![CDATA[The &#8220;Unification Church&#8221; follower sued the local authority because of a &#8220;violation of Freedom of Faith&#8221; On December 16, 2022, one man sued Toyama city because the resolution of terminating the relationship with the former &#8220;Unification Church&#8221; was passed by the Toyama city congress. The man claimed that Toyama city congressman and congresswoman refused his [&#8230;]]]></description>
+					<description><![CDATA[Jan 5, Jan 12 On December 16, 2022, one man sued Toyama city because the resolution of terminating the relationship with the former &#8220;Unification Church&#8221; was passed by the Toyama city congress. The man claimed that Toyama city congressman and congresswoman refused his proposal to bring his petition against this resolution, which violates the right [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h4>The &#8220;Unification Church&#8221; follower sued the local authority because of a &#8220;violation of Freedom of Faith&#8221;</h4>
+<h4>Jan 5, Jan 12</h4>
 
 
 
@@ -672,7 +838,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<p><a href="https://news.tv-asahi.co.jp/news_society/articles/000280071.html">news article delivering this news &#8211; Asahi</a></p>
+<p><a href="https://news.tv-asahi.co.jp/news_society/articles/000280071.html" target="_blank" rel="noreferrer noopener">news article delivering this news &#8211; Asahi</a></p>
 
 
 
@@ -682,13 +848,49 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<p><a href="https://www3.nhk.or.jp/news/html/20221216/k10013925361000.html">news article delivering this news &#8211; Japan Broadcasting Corporation</a></p>
+<p><a href="https://www3.nhk.or.jp/news/html/20221216/k10013925361000.html" target="_blank" rel="noreferrer noopener">news article delivering this news &#8211; Japan Broadcasting Corporation</a></p>
 
 
 
 <blockquote class="wp-block-quote">
 <p>“旧統一教会信者が富山市を提訴 ‘関係断つ‘決議で精神的苦痛: NHK.” NHKニュース. Japan Broadcasting Corporation, December 16, 2022. https://www3.nhk.or.jp/news/html/20221216/k10013925361000.html.</p>
 </blockquote>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+
+<p></p>
+
+
+
+<h3>Translate and summarize the <a href="https://www.city.toyama.toyama.jp/gikaijimukyoku/gijichosaka/kaigiroku_iinkai_r3_2_2.html" target="_blank" rel="noreferrer noopener">Toyama city congress report</a></h3>
+
+
+
+<p><a href="https://www.city.toyama.toyama.jp/data/open/cnt/3/25765/1/040915giun.pdf?20230112133855" target="_blank" rel="noreferrer noopener">Sep 15</a></p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>(page 1)The opinion briefs about &#8220;Unification Church&#8221; have been submitted by Toyama City Council&#8217;s LDP (Liberal Democratic Party), LDP, Civilian group of CDP (Constitutional Democratic Party) reflecting on the group of civilians who submitted petitions. New Komeito would convey thank you for those groups.<br>(page 2)However, the use of the opinion briefs, it seems New Komeito also agree with that, and considering the petitions&#8217; thought which want us to submit the opinion brief as a consensus of Toyama City congress, we would like to ask other parties to build unified version of the opinion brief.</p>
+</blockquote>
+
+
+
+<p><a href="https://www.city.toyama.toyama.jp/data/open/cnt/3/25765/1/040921giun.pdf?20230112133855" target="_blank" rel="noreferrer noopener">Sep 21</a></p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>(page 2)At first, I would like to ask your opinion about the opinion brief that &#8220;extinguish of former Unification Church and its related organizations and ask for help of victims.&#8221;<br>This opinion brief was handed in by Toyama City congress LDP, LDP, and Civilian group of CDP. Thus, I would like to ask New Komeito to express your attitude.<br>We agree with that.</p>
+</blockquote>
+
+
+
+<p>At the assembly held on September 28, they unanimously passed this opinion briefly.<br><a rel="noreferrer noopener" href="https://www.city.toyama.toyama.dbsr.jp/index.php/7212994?Template=doc-select-frame&amp;VoiceType=select" target="_blank">assembly minutes, 44, 58, 59</a></p>
 ]]></content:encoded>
 					
 		
@@ -709,9 +911,9 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=53</guid>
 
-					<description><![CDATA[&#8220;Requesting Reports and Asking Questions&#8221; &#8211; Religious Corporations Act Article 78-2 What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221; This right can be exercised if the one who is in a religious organization continuously violates the law or the organization causes serious damage.After examining reports, the minister of MEXT can [&#8230;]]]></description>
+					<description><![CDATA[Jan 5 What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221; This right can be exercised if the one who is in a religious organization continuously violates the law or the organization causes serious damage.After examining reports, the minister of MEXT can ask for the order of dissolution of the religious [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h4>&#8220;Requesting Reports and Asking Questions&#8221; &#8211; Religious Corporations Act Article 78-2</h4>
+<h4>Jan 5</h4>
 
 
 
@@ -784,44 +986,6 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <blockquote class="wp-block-quote">
 <p>“旧統一教会に「質問権」 行使は初めて 解散命令に該当か調査へ: NHK.” NHKニュース. Japan Broadcasting Corporation, November 22, 2022. https://www3.nhk.or.jp/news/html/20221122/k10013899551000.html.</p>
 </blockquote>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Trying to correct Twitter data</title>
-		<link>/2023/01/03/january-3/</link>
-		
-		<dc:creator><![CDATA[sato]]></dc:creator>
-		<pubDate>Tue, 03 Jan 2023 00:00:29 +0000</pubDate>
-				<category><![CDATA[Winter Term 2023]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">/?p=51</guid>
-
-					<description><![CDATA[Trying to correct twitter data Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<h3>Trying to correct twitter data</h3>
-
-
-
-<p>Today I found I can use cloud services to run this program, making the project easier.</p>
-
-
-
-<p>However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next few days.</p>
-
-
-
-<p><strong><em>Updated on Jan 8</em></strong><br>Finally, Twitter sent me the verification code, so I ran the code below. However, it said I need Elevated access to run this script, so I am now requesting Elevated API access for Twitter. FAQ and developer forum suggests it usually takes less than a week.</p>
-
-
-
-<p>For example, I will run the script below to correct tweets related to &#8220;Unification Church.&#8221;</p>
-
-
-
-<pre class="wp-block-code"><code>gathertw.sh -l ja -o ja --sincedt=20220707 -c -- 統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></pre>
 ]]></content:encoded>
 					
 		
