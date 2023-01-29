@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Google Trends &#8211; Satoru Uchida</title>
+	<title>Google Trends Archives | Satoru Uchida</title>
 	<atom:link href="/tag/google-trends/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/tag/google-trends/</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 Jan 2023 06:01:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2023 15:56:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,9 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=272</guid>
 
-					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
+					<description><![CDATA[<p>Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <h3>Abstract</h3>
 
@@ -118,13 +120,14 @@
 <div class="iframe-wrap">
 <iframe seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
 </div>
+<p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Utilize Google Trends for the sake of examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
+		<title>Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
 		<link>/2023/01/20/jan-17-jan-20/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
@@ -135,7 +138,9 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=228</guid>
 
-					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
+					<description><![CDATA[<p>Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems</p>
+<p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <h4 class="has-text-align-left">Jan 15 &#8211; Jan 20</h4>
 
@@ -263,6 +268,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 <p></p>
+<p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		

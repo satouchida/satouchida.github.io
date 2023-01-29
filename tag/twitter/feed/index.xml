@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Twitter &#8211; Satoru Uchida</title>
+	<title>Twitter Archives | Satoru Uchida</title>
 	<atom:link href="/tag/twitter/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/tag/twitter/</link>
 	<description></description>
 	<lastBuildDate>Fri, 27 Jan 2023 02:58:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -29,7 +29,9 @@
 		<category><![CDATA[Twitter]]></category>
 		<guid isPermaLink="false">/?p=51</guid>
 
-					<description><![CDATA[Jan 3 Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next [&#8230;]]]></description>
+					<description><![CDATA[<p>Jan 3 Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2023/01/03/january-3/">Trying to correct Twitter data</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <h4>Jan 3</h4>
 
@@ -52,6 +54,7 @@
 
 
 <pre class="wp-block-code"><code>gathertw.sh -l ja -o ja --sincedt=20220707 -c -- 統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></pre>
+<p>The post <a rel="nofollow" href="/2023/01/03/january-3/">Trying to correct Twitter data</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -69,7 +72,9 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=49</guid>
 
-					<description><![CDATA[Jan 2 From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I aim to gather two different but overlapping [&#8230;]]]></description>
+					<description><![CDATA[<p>Jan 2 From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I aim to gather two different but overlapping [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2023/01/02/january-2/">Correcting Twitter data as a piece of public opinion</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <h4>Jan 2</h4>
 
@@ -94,6 +99,7 @@
 <blockquote class="wp-block-quote">
 <p><a href="https://qiita.com/richmikan@github/items/48f49473f46084c57701">How to correct mass twitter posts</a><br><a href="https://github.com/ShellShoccar-jpn/kotoriotoko/blob/master/APPS/gathertw.md">How to use of &#8220;Kotoriotoko&#8221; to gather twitter post</a></p>
 </blockquote>
+<p>The post <a rel="nofollow" href="/2023/01/02/january-2/">Correcting Twitter data as a piece of public opinion</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		
