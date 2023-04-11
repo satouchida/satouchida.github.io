@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
 		<link>/2023/01/27/jan-27/</link>
@@ -35,7 +35,7 @@
 <p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h3>Abstract</h3>
+<h3 class="wp-block-heading">Abstract</h3>
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-<h4>Background</h4>
+<h4 class="wp-block-heading">Background</h4>
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-<h4>Objectives</h4>
+<h4 class="wp-block-heading">Objectives</h4>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<h4>Methods</h4>
+<h4 class="wp-block-heading">Methods</h4>
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-<h4>Results</h4>
+<h4 class="wp-block-heading">Results</h4>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<h4>Conclusions</h4>
+<h4 class="wp-block-heading">Conclusions</h4>
 
 
 
@@ -142,11 +142,11 @@
 <p>The post <a rel="nofollow" href="/2023/01/24/jan-24/">Administrative Guidance for the &#8220;Unification Church&#8221; about children&#8217;s adoption</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 24</h4>
+<h4 class="wp-block-heading">Jan 24</h4>
 
 
 
-<h4>Summary</h4>
+<h4 class="wp-block-heading">Summary</h4>
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-<h6>Compliance with relevant laws and regulations regarding adoptions, etc.</h6>
+<h6 class="wp-block-heading">Compliance with relevant laws and regulations regarding adoptions, etc.</h6>
 
 
 
@@ -329,11 +329,11 @@
 <p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4 class="has-text-align-left">Jan 15 &#8211; Jan 20</h4>
+<h4 class="has-text-align-left wp-block-heading">Jan 15 &#8211; Jan 20</h4>
 
 
 
-<h5>The API I used for gathering information</h5>
+<h5 class="wp-block-heading">The API I used for gathering information</h5>
 
 
 
@@ -426,7 +426,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Other parameters I would like to use</h5>
+<h5 class="wp-block-heading">Other parameters I would like to use</h5>
 
 
 
@@ -440,7 +440,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Problems</h5>
+<h5 class="wp-block-heading">Problems</h5>
 
 
 
@@ -479,7 +479,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/17/jan-17/">Talk with Professor and graduate students who have been researching on mind control</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 17</h4>
+<h4 class="wp-block-heading">Jan 17</h4>
 
 
 
@@ -527,7 +527,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/15/jan-15/">Talk with lawer who have been supported me</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 15</h4>
+<h4 class="wp-block-heading">Jan 15</h4>
 
 
 
@@ -573,7 +573,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/14/jan-14/">Japan decides to indict the man who shot Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 14</h4>
+<h4 class="wp-block-heading">Jan 14</h4>
 
 
 
@@ -614,7 +614,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/10/jan-10/">Talking about &#8220;second generation&#8221; issues with my friend</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 10</h4>
+<h4 class="wp-block-heading">Jan 10</h4>
 
 
 
@@ -667,7 +667,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/09/jan-6-jan-9/">Read right-side magazines and left-side newspapers to grasp viewpoints of the right/left wing for &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 6 &#8211; Jan 9 (last added Jan 27)</h4>
+<h4 class="wp-block-heading">Jan 6 &#8211; Jan 9 (last added Jan 27)</h4>
 
 
 
@@ -675,7 +675,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>&#8220;Seiron&#8221;</h5>
+<h5 class="wp-block-heading">&#8220;Seiron&#8221;</h5>
 
 
 
@@ -731,7 +731,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Hanada (added Jan 27)</h5>
+<h5 class="wp-block-heading">Hanada (added Jan 27)</h5>
 
 
 
@@ -775,7 +775,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Akahata (newspaper published by the Japanese Communist Party, JCP)</h5>
+<h5 class="wp-block-heading">Akahata (newspaper published by the Japanese Communist Party, JCP)</h5>
 
 
 
@@ -799,7 +799,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Oct 2022</h5>
+<h5 class="wp-block-heading">Oct 2022</h5>
 
 
 
@@ -807,7 +807,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Nov 2022</h5>
+<h5 class="wp-block-heading">Nov 2022</h5>
 
 
 
@@ -823,7 +823,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>My reflection on this reading</h5>
+<h5 class="wp-block-heading">My reflection on this reading</h5>
 
 
 
@@ -850,7 +850,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/05/january-5/">The follower of Moonism sued local authority because of &#8220;violation of freedom of faith&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 5, Jan 12</h4>
+<h4 class="wp-block-heading">Jan 5, Jan 12</h4>
 
 
 
@@ -894,7 +894,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h3>Translate and summarize the <a href="https://www.city.toyama.toyama.jp/gikaijimukyoku/gijichosaka/kaigiroku_iinkai_r3_2_2.html" target="_blank" rel="noreferrer noopener">Toyama city congress report</a></h3>
+<h3 class="wp-block-heading">Translate and summarize the <a href="https://www.city.toyama.toyama.jp/gikaijimukyoku/gijichosaka/kaigiroku_iinkai_r3_2_2.html" target="_blank" rel="noreferrer noopener">Toyama city congress report</a></h3>
 
 
 
@@ -944,7 +944,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 <p>The post <a rel="nofollow" href="/2023/01/04/january-4/">&#8220;Requesting Reports and Asking Questions&#8221; &#8211; Religious Corporations Act Article 78-2</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 5</h4>
+<h4 class="wp-block-heading">Jan 5</h4>
 
 
 
@@ -962,7 +962,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221;</h5>
+<h5 class="wp-block-heading">What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221;</h5>
 
 
 
@@ -978,7 +978,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>First Attempt</h5>
+<h5 class="wp-block-heading">First Attempt</h5>
 
 
 
@@ -994,7 +994,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Second Attempt</h5>
+<h5 class="wp-block-heading">Second Attempt</h5>
 
 
 
@@ -1006,7 +1006,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h6>References</h6>
+<h6 class="wp-block-heading">References</h6>
 
 
 

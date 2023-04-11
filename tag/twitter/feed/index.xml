@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Trying to correct Twitter data</title>
 		<link>/2023/01/03/january-3/</link>
@@ -33,7 +33,7 @@
 <p>The post <a rel="nofollow" href="/2023/01/03/january-3/">Trying to correct Twitter data</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 3</h4>
+<h4 class="wp-block-heading">Jan 3</h4>
 
 
 
@@ -76,7 +76,7 @@
 <p>The post <a rel="nofollow" href="/2023/01/02/january-2/">Correcting Twitter data as a piece of public opinion</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4>Jan 2</h4>
+<h4 class="wp-block-heading">Jan 2</h4>
 
 
 

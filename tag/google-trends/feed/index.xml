@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
 		<link>/2023/01/27/jan-27/</link>
@@ -35,7 +35,7 @@
 <p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h3>Abstract</h3>
+<h3 class="wp-block-heading">Abstract</h3>
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-<h4>Background</h4>
+<h4 class="wp-block-heading">Background</h4>
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-<h4>Objectives</h4>
+<h4 class="wp-block-heading">Objectives</h4>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<h4>Methods</h4>
+<h4 class="wp-block-heading">Methods</h4>
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-<h4>Results</h4>
+<h4 class="wp-block-heading">Results</h4>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<h4>Conclusions</h4>
+<h4 class="wp-block-heading">Conclusions</h4>
 
 
 
@@ -142,11 +142,11 @@
 <p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<h4 class="has-text-align-left">Jan 15 &#8211; Jan 20</h4>
+<h4 class="has-text-align-left wp-block-heading">Jan 15 &#8211; Jan 20</h4>
 
 
 
-<h5>The API I used for gathering information</h5>
+<h5 class="wp-block-heading">The API I used for gathering information</h5>
 
 
 
@@ -239,7 +239,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Other parameters I would like to use</h5>
+<h5 class="wp-block-heading">Other parameters I would like to use</h5>
 
 
 
@@ -253,7 +253,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<h5>Problems</h5>
+<h5 class="wp-block-heading">Problems</h5>
 
 
 
