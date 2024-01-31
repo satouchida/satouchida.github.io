@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Google Trends Archives | Satoru Uchida</title>
+	<title>Google Trends &#8211; Satoru Uchida</title>
 	<atom:link href="/tag/google-trends/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/google-trends/</link>
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Jan 2023 15:56:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
 		<link>/2023/01/27/jan-27/</link>
@@ -31,9 +31,7 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=272</guid>
 
-					<description><![CDATA[<p>Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
-]]></description>
+					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">Abstract</h3>
 
@@ -120,7 +118,6 @@
 <div class="iframe-wrap">
 <iframe seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBEtd1NjrxoveWZ8aGQp9bVwAu-eBbwLiUGIv2MtttInU_YPv3aJVGrK-EdalTXYTq_X5P_9_2Wr5u/pubchart?oid=1264133652&amp;format=interactive"></iframe>
 </div>
-<p>The post <a rel="nofollow" href="/2023/01/27/jan-27/">Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -138,9 +135,7 @@
 		<category><![CDATA[Unification Church]]></category>
 		<guid isPermaLink="false">/?p=228</guid>
 
-					<description><![CDATA[<p>Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems</p>
-<p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
-]]></description>
+					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
 <h4 class="has-text-align-left wp-block-heading">Jan 15 &#8211; Jan 20</h4>
 
@@ -268,7 +263,6 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 <p></p>
-<p>The post <a rel="nofollow" href="/2023/01/20/jan-17-jan-20/">Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</a> appeared first on <a rel="nofollow" href="/">Satoru Uchida</a>.</p>
 ]]></content:encoded>
 					
 		
