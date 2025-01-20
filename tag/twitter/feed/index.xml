@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Twitter &#8211; Satoru Uchida</title>
-	<atom:link href="httpsatoruchida.github.io/tag/twitter/feed/" rel="self" type="application/rss+xml" />
-	<link>httpsatoruchida.github.io/</link>
+	<atom:link href="httpsatouchida.github.io/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatouchida.github.io/</link>
 	<description></description>
 	<lastBuildDate>Fri, 27 Jan 2023 02:58:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Trying to correct Twitter data</title>
-		<link>httpsatoruchida.github.io/2023/01/03/january-3/</link>
+		<link>httpsatouchida.github.io/2023/01/03/january-3/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 00:00:29 +0000</pubDate>
 				<category><![CDATA[Winter Term 2023]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">httpsatoruchida.github.io/?p=51</guid>
+		<guid isPermaLink="false">httpsatouchida.github.io/?p=51</guid>
 
 					<description><![CDATA[Jan 3 Today I found I can use cloud services to run this program, making the project easier. However, since Twitter&#8217;s problem, I can&#8217;t verify my Twitter developer account for the last few days (I&#8217;m writing this on Jan 5). So I just read and summarized on current news about &#8220;Unification Church&#8221; for the next [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -59,7 +59,7 @@
 			</item>
 		<item>
 		<title>Correcting Twitter data as a piece of public opinion</title>
-		<link>httpsatoruchida.github.io/2023/01/02/january-2/</link>
+		<link>httpsatouchida.github.io/2023/01/02/january-2/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2023 00:00:55 +0000</pubDate>
@@ -67,7 +67,7 @@
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Twitter]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">httpsatoruchida.github.io/?p=49</guid>
+		<guid isPermaLink="false">httpsatouchida.github.io/?p=49</guid>
 
 					<description><![CDATA[Jan 2 From today, I am going to work on correcting Twitter posts related to &#8220;Unification Church&#8221; and &#8220;Second Generation.&#8221; Based on this project, I will use &#8220;Kotoriotoko&#8221; to gather Twitter posts. This is open-source software built by Japanese scholars and seems easy to run. However, since I aim to gather two different but overlapping [&#8230;]]]></description>
 										<content:encoded><![CDATA[

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kobra 2 &#8211; Satoru Uchida</title>
-	<atom:link href="httpsatoruchida.github.io/tag/kobra-2/feed/" rel="self" type="application/rss+xml" />
-	<link>httpsatoruchida.github.io/</link>
+	<atom:link href="httpsatouchida.github.io/tag/kobra-2/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatouchida.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 19 Jan 2025 23:51:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Installing Klipper into REFURBISHED Anycubic Kobra 2</title>
-		<link>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/</link>
-					<comments>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/#respond</comments>
+		<link>httpsatouchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/</link>
+					<comments>httpsatouchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/#respond</comments>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sun, 19 Jan 2025 23:23:31 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Klipper]]></category>
 		<category><![CDATA[Kobra 2]]></category>
 		<category><![CDATA[Refurbished]]></category>
-		<guid isPermaLink="false">httpsatoruchida.github.io/?p=418</guid>
+		<guid isPermaLink="false">httpsatouchida.github.io/?p=418</guid>
 
 					<description><![CDATA[The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -66,7 +66,7 @@ At 1:11, take a look at the cylinder coming out of the hotend and into the hoten
 </blockquote>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/feed/</wfw:commentRss>
+					<wfw:commentRss>httpsatouchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

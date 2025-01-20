@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Google Trends &#8211; Satoru Uchida</title>
-	<atom:link href="httpsatoruchida.github.io/tag/google-trends/feed/" rel="self" type="application/rss+xml" />
-	<link>httpsatoruchida.github.io/</link>
+	<atom:link href="httpsatouchida.github.io/tag/google-trends/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatouchida.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Jan 2023 15:56:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
-		<link>httpsatoruchida.github.io/2023/01/27/jan-27/</link>
+		<link>httpsatouchida.github.io/2023/01/27/jan-27/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Fri, 27 Jan 2023 00:00:55 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Google Trends]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">httpsatoruchida.github.io/?p=272</guid>
+		<guid isPermaLink="false">httpsatouchida.github.io/?p=272</guid>
 
 					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -125,7 +125,7 @@
 			</item>
 		<item>
 		<title>Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
-		<link>httpsatoruchida.github.io/2023/01/20/jan-17-jan-20/</link>
+		<link>httpsatouchida.github.io/2023/01/20/jan-17-jan-20/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Fri, 20 Jan 2023 00:00:48 +0000</pubDate>
@@ -133,7 +133,7 @@
 		<category><![CDATA[Google Trends]]></category>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">httpsatoruchida.github.io/?p=228</guid>
+		<guid isPermaLink="false">httpsatouchida.github.io/?p=228</guid>
 
 					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
