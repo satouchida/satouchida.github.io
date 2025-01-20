@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Unification Church &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/unification-church/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="httpsatoruchida.github.io/tag/unification-church/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatoruchida.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Jan 2023 15:56:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,10 +18,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Utilize Google Trends to examine public interests toward the &#8220;Unification Church&#8221;</title>
-		<link>/2023/01/27/jan-27/</link>
+		<link>httpsatoruchida.github.io/2023/01/27/jan-27/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Fri, 27 Jan 2023 00:00:55 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Google Trends]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=272</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=272</guid>
 
 					<description><![CDATA[Abstract Background The public interest in the &#8220;Unification Church&#8221; has been one of the most influential factors in supporting those who experienced spiritual abuse in Japan since almost no attention had been paid before the assassination of Shinzo Abe. TV shows, newspapers, and tabloids eagerly report the news because of the high public interest in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -85,7 +85,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>Vasconcellos-Silva, Paulo Roberto et al. “Using Google Trends Data to Study Public Interest in Breast Cancer Screening in Brazil: Why Not a Pink February?.” JMIR public health and surveillance vol. 3,2 e17. 6 Apr. 2017, doi:10.2196/publichealth.7015</p>
 </blockquote>
 
@@ -125,7 +125,7 @@
 			</item>
 		<item>
 		<title>Administrative Guidance for the &#8220;Unification Church&#8221; about children&#8217;s adoption</title>
-		<link>/2023/01/24/jan-24/</link>
+		<link>httpsatoruchida.github.io/2023/01/24/jan-24/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 24 Jan 2023 00:00:33 +0000</pubDate>
@@ -133,7 +133,7 @@
 		<category><![CDATA[Adoption]]></category>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=241</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=241</guid>
 
 					<description><![CDATA[Jan 24 Summary Jan 23, MHLW announced they did administrative guidance against the &#8220;Unification Church&#8221; because of their work as an adoption agency, which they did not register. Japanese law dictates adoption agencies register for children&#8217;s adoption. So the &#8220;Unification Church&#8221; did illegal work, and this had been questioning by attempting &#8220;Requesting Reports and Asking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -161,7 +161,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>On December 9, 2022, we issued a &#8220;Notice Concerning Compliance with the Law-related the Protection of Children in the Mediation of Adoptions by Private Adoption Agencies&#8221; (Office Communication, Family Welfare Division, Child and Family Bureau, Ministry of Health, Labor and Welfare, dated December 9, 2022) to your organization.</p>
 
 
@@ -283,7 +283,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p><strong>Proper Operation of the Act on the Protection of Children through Adoption Mediation by Private Mediation Agencies (Notice)</strong></p>
 
 
@@ -309,7 +309,7 @@
 			</item>
 		<item>
 		<title>Gather data from Google Trends for examining public interest in the &#8220;Unification Church&#8221; after the assassination of Shinzo Abe</title>
-		<link>/2023/01/20/jan-17-jan-20/</link>
+		<link>httpsatoruchida.github.io/2023/01/20/jan-17-jan-20/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Fri, 20 Jan 2023 00:00:48 +0000</pubDate>
@@ -317,7 +317,7 @@
 		<category><![CDATA[Google Trends]]></category>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=228</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=228</guid>
 
 					<description><![CDATA[Jan 15 &#8211; Jan 20 The API I used for gathering information Other parameters I would like to use Problems]]></description>
 										<content:encoded><![CDATA[
@@ -329,13 +329,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://pypi.org/project/pytrends/"><strong>pytrends</strong></a>
-<ul>
+<ul class="wp-block-list">
 <li>unofficial API of Google Trends makes it easy to gather vast amounts of information from Google search
-<ul>
+<ul class="wp-block-list">
 <li>Use keywords I chose when I tried to gather information from Twitter
-<ul>
+<ul class="wp-block-list">
 <li><code>統一 OR 統一教会 OR 文鮮明 OR 韓鶴子 OR 家庭連合 OR 祝福2世 OR 祝福二世 OR 祝福２世</code></li>
 
 
@@ -422,7 +422,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><code>pytrends.related_queries()</code></li>
 
 
@@ -436,7 +436,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Because pytrends send a large number of requests to the Google server, Google frequently restricts my computer&#8217;s IP address to protect its server. The error message looks like this:</li>
 </ul>
 
@@ -454,7 +454,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>Talk with Professor and graduate students who have been researching on mind control</title>
-		<link>/2023/01/17/jan-17/</link>
+		<link>httpsatoruchida.github.io/2023/01/17/jan-17/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 17 Jan 2023 00:00:29 +0000</pubDate>
@@ -464,7 +464,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=236</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=236</guid>
 
 					<description><![CDATA[Jan 17 After graduating high school, I made an appointment with one professor who specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unification Church.&#8221; He is very kind to me and invited me to join one of his classes for graduate students. It was before the assassination of Shinzo Abe, so I was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -500,7 +500,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>Talk with lawer who have been supported me</title>
-		<link>/2023/01/15/jan-15/</link>
+		<link>httpsatoruchida.github.io/2023/01/15/jan-15/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 00:00:21 +0000</pubDate>
@@ -509,7 +509,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=234</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=234</guid>
 
 					<description><![CDATA[Jan 15 We met at the nearest shopping center of us. She was one of my referees of me when I won a scholarship from a Japanese foundation, Grew-Bancroft, and she has worked for me since I joined my previous residence after I left my home. We have kept in touch during the fall semester, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -545,14 +545,14 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>Japan decides to indict the man who shot Shinzo Abe</title>
-		<link>/2023/01/14/jan-14/</link>
+		<link>httpsatoruchida.github.io/2023/01/14/jan-14/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sat, 14 Jan 2023 00:00:43 +0000</pubDate>
 				<category><![CDATA[Winter Term 2023]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=188</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=188</guid>
 
 					<description><![CDATA[Jan 14 On January 14, Japanese prosecutors at the Nara prosecutor&#8217;s office said they finished the psychiatric evaluation of Tetsuya Yamagami, who got indicted on murder and firearm charges. The news reports that Yamagami wants higher education after his service term. I assume he wants an education that he could not get when he was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -568,7 +568,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>Ogura, Junko, Emiko Jozuka, Aliza Kassim Khalidi, and Heather Chen. “Japan Indicts Man Suspected of Murdering Former Prime Minister Shinzo Abe.” CNN. Cable News Network, January 13, 2023. https://edition.cnn.com/2023/01/13/asia/japan-shinzo-abe-assassination-shooter-indictment-intl-hnk/index.html.</p>
 
 
@@ -582,7 +582,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>Talking about &#8220;second generation&#8221; issues with my friend</title>
-		<link>/2023/01/10/jan-10/</link>
+		<link>httpsatoruchida.github.io/2023/01/10/jan-10/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 10 Jan 2023 00:00:43 +0000</pubDate>
@@ -590,7 +590,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=185</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=185</guid>
 
 					<description><![CDATA[Jan 10 Today I met with my friend, who is studying at International Christian University as a senior. She finally decided to major in Anthropology, but she was also interested in advocation for children. She has worked on Save the Children Japan and advocated for educating the treatment of children&#8217;s rights. We talked about many [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -626,7 +626,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>Read right-side magazines and left-side newspapers to grasp viewpoints of the right/left wing for &#8220;Unification Church&#8221;</title>
-		<link>/2023/01/09/jan-6-jan-9/</link>
+		<link>httpsatoruchida.github.io/2023/01/09/jan-6-jan-9/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Mon, 09 Jan 2023 00:00:47 +0000</pubDate>
@@ -640,7 +640,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Spiritual Sales]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=58</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=58</guid>
 
 					<description><![CDATA[Jan 6 &#8211; Jan 9 (last added Jan 27) &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, they often discussed about this issue. On Jan 2023, they featured the &#8220;Unification Church&#8221; related issues. Hanada (added Jan 27) 杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81. Akahata (newspaper published by the Japanese Communist [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -656,13 +656,13 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>2022 Feb, no articles mentioning this topic</li>
 
 
@@ -672,7 +672,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 <li>no mention of &#8220;Unification Church&#8221; until 2022 Oct
-<ul>
+<ul class="wp-block-list">
 <li>2022 Oct, mentioned &#8220;Unification Church&#8221; in some articles</li>
 
 
@@ -712,15 +712,15 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>2023 Feb, &#8220;Condemning the &#8216;which hunt by media reports of the Unification Church'&#8221;
-<ul>
+<ul class="wp-block-list">
 <li>Criticize the attitude of media and politics</li>
 
 
@@ -756,13 +756,13 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>赤旗編集局, 日本共産党中央委員会機関紙誌業務部, and 日本共産党中央委員会出版局. 2004. しんぶん赤旗. 縮刷版[CD-ROM] ed. 日本共産党中央委員会機関紙誌業務部; 日本共産党中央委員会出版局 (発売). https://ci.nii.ac.jp/ncid/AA11954267.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Skim from Oct 2022 to Dec 2022</li>
 
 
@@ -812,7 +812,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>The follower of Moonism sued local authority because of &#8220;violation of freedom of faith&#8221;</title>
-		<link>/2023/01/05/january-5/</link>
+		<link>httpsatoruchida.github.io/2023/01/05/january-5/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Thu, 05 Jan 2023 00:00:01 +0000</pubDate>
@@ -820,7 +820,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Freedom of Religion]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=56</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=56</guid>
 
 					<description><![CDATA[Jan 5, Jan 12 On December 16, 2022, one man sued Toyama city because the resolution of terminating the relationship with the former &#8220;Unification Church&#8221; was passed by the Toyama city congress. The man claimed that Toyama city congressman and congresswoman refused his proposal to bring his petition against this resolution, which violates the right [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -844,7 +844,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会信者が富山市を提訴 「関係断絶」決議で.” テレ朝news. TV Asahi Holdings Corporation , December 16, 2022. https://news.tv-asahi.co.jp/news_society/articles/000280071.html.</p>
 </blockquote>
 
@@ -854,7 +854,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会信者が富山市を提訴 ‘関係断つ‘決議で精神的苦痛: NHK.” NHKニュース. Japan Broadcasting Corporation, December 16, 2022. https://www3.nhk.or.jp/news/html/20221216/k10013925361000.html.</p>
 </blockquote>
 
@@ -876,7 +876,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>(page 1)The opinion briefs about &#8220;Unification Church&#8221; have been submitted by Toyama City Council&#8217;s LDP (Liberal Democratic Party), LDP, Civilian group of CDP (Constitutional Democratic Party) reflecting on the group of civilians who submitted petitions. New Komeito would convey thank you for those groups.<br>(page 2)However, the use of the opinion briefs, it seems New Komeito also agree with that, and considering the petitions&#8217; thought which want us to submit the opinion brief as a consensus of Toyama City congress, we would like to ask other parties to build unified version of the opinion brief.</p>
 </blockquote>
 
@@ -886,7 +886,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>(page 2)At first, I would like to ask your opinion about the opinion brief that &#8220;extinguish of former Unification Church and its related organizations and ask for help of victims.&#8221;<br>This opinion brief was handed in by Toyama City congress LDP, LDP, and Civilian group of CDP. Thus, I would like to ask New Komeito to express your attitude.<br>We agree with that.</p>
 </blockquote>
 
@@ -900,7 +900,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 			</item>
 		<item>
 		<title>&#8220;Requesting Reports and Asking Questions&#8221; &#8211; Religious Corporations Act Article 78-2</title>
-		<link>/2023/01/04/january-4/</link>
+		<link>httpsatoruchida.github.io/2023/01/04/january-4/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Wed, 04 Jan 2023 00:00:37 +0000</pubDate>
@@ -911,7 +911,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Spiritual Sales]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=53</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=53</guid>
 
 					<description><![CDATA[Jan 5 What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221; This right can be exercised if the one who is in a religious organization continuously violates the law or the organization causes serious damage.After examining reports, the minister of MEXT can ask for the order of dissolution of the religious [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -919,7 +919,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Since January 4, &#8220;Requesting Reports and Asking Questions&#8221; has been attempted twice by Agency for Cultural Affairs under the control of the Ministry of Education, Culture, Sports, Science, and Technology (MEXT).</li>
 
 
@@ -985,7 +985,7 @@ df.to_csv("gt-gen-20220707-20230117.csv", encoding="shift_jis")</code></pre>
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会に「質問権」 行使は初めて 解散命令に該当か調査へ: NHK.” NHKニュース. Japan Broadcasting Corporation, November 22, 2022. https://www3.nhk.or.jp/news/html/20221122/k10013899551000.html.</p>
 </blockquote>
 ]]></content:encoded>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Klipper &#8211; Satoru Uchida</title>
+	<atom:link href="httpsatoruchida.github.io/tag/klipper/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatoruchida.github.io/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Jan 2025 23:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Installing Klipper into REFURBISHED Anycubic Kobra 2</title>
+		<link>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/</link>
+					<comments>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/#respond</comments>
+		
+		<dc:creator><![CDATA[sato]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2025 23:23:31 +0000</pubDate>
+				<category><![CDATA[Winter Term 2025]]></category>
+		<category><![CDATA[3D Printer]]></category>
+		<category><![CDATA[Anycubic]]></category>
+		<category><![CDATA[Klipper]]></category>
+		<category><![CDATA[Kobra 2]]></category>
+		<category><![CDATA[Refurbished]]></category>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=418</guid>
+
+					<description><![CDATA[The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being reduced for on-campus projects (it was 1000, now 500 bucks), it was cheap enough. Easily installed in my space. Then, why not print something? So I did, without knowing a series of issues were waiting for me. Takeaway message: There is always a reason for a price that is too good to be real. If you have a fat budget and are not a fan of problem-solving, just get the so-called “best” printer for an easy and smooth setup. </p>
+
+
+
+<p>First: the z-offset auto probe was not functioning at all. Kobra 2 comes with a dedicated button that measures the distance between the base and the nozzle. I am a person who reads manuals, so I followed each step carefully before the test print. Then I pressed “print.” The nozzle ended up scratching the print bed with tangled PLA. First, I conducted a manual probe. It worked, but not perfect. I made sure all the screws were tightened, flashed the newest official firmware, used official PLA, slowed down the printing speed, calibrated slight inclinations of the extruder(heater), print bed, and rails, … And I still got imperfect quality prints. Finally I focused on the hot end that looked slightly wrong compared to the official image. It was the problem. <a href="https://youtu.be/Y0PCCx-E9wk?si=JfrppPiUm1Rh_ILa">Replace the hotend for Anycubic Kobra 2 Series</a> (Link to YouTube) The top comment saved my life &#8211; the PTFE tube was too long in my Kobra 2.</p>
+
+
+
+<p> <img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe2tOZZUWQwqXVvBvBLnpwoSxKkmeDS7eN2pd1dYvcOIsFU5p-fv12seZh8YPs3FOULxRpQ-jdAmDKBbVRDDfrLAJuGgEW1fD2ZZoS0X16z9osVRVW9-_ZwXk-As9V5go3gX14jtw?key=eUSgf_0uE9Np_s-K31efuZTS" style="" alt="It saved my life. The comment says: &quot;Two things they don't cover here that are absolutely crucial for success
+
+1. The PTFE tube might be too long
+2. The nozzle assembly has to be seated properly otherwise it will be too low and hit your bed
+
+At 1:11, take a look at the cylinder coming out of the hotend and into the hotend assembly.  That little protusion (whatever it is called) has to be flush with the bottom of the assembly.  The factory replacement I received had a PTFE tube that was ever so slightly too long and as a result, the nozzle stuck out too far and crashed into the bed.  I had to trim 1.5mm off the PTFE tube and that allowed me to seat the new hotend properly.&quot;"></p>
+
+
+
+<p>This is why you should look at everything you can find on the internet before you throw it up.&nbsp;</p>
+
+
+
+<p>I installed the Klipper after a few prints with an official firmware, and now it is working flawlessly. Here is my printer.cfg and variables.cfg for klipper, based on function3d and crororo’s config files. (1) I also uploaded my PrusaSlicer settings for 15% wood PLA filament from SUNLU and 8% carbon fiber PETG from Polymaker. They work perfectly in my environment. <a href="https://drive.google.com/drive/folders/13D-96QrvjOnsqmwjhqopPet4tterH-Ga?usp=sharing">Link to Google Drive is here</a>.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>(1): Follow instructions of <a href="https://function3d.xyz/en/how-to-install-klipper-on-anycubic-kobra-2/">https://function3d.xyz/en/how-to-install-klipper-on-anycubic-kobra-2/</a> and <a href="https://crororo.blogspot.com/kobra2klipper">https://crororo.blogspot.com/kobra2klipper</a>. You can use microboards such as Raspberry Pi, but also technically any machine running linux. I used an old iMac (2012) running Zorin OS (Ubuntu 22.04 based) as a host. Function3d also uploaded other config files such as macro.cfg.</p>
+</blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpsatoruchida.github.io/2025/01/19/installing-klipper-into-refurbished-anycubic-kobra-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

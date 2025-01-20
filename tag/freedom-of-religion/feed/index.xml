@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Freedom of Religion &#8211; Satoru Uchida</title>
-	<atom:link href="/tag/freedom-of-religion/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="httpsatoruchida.github.io/tag/freedom-of-religion/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsatoruchida.github.io/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Apr 2023 02:45:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,10 +18,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>My thought about current news</title>
-		<link>/2023/02/05/%e6%98%a8%e4%bb%8a%e3%81%ae%e5%a0%b1%e9%81%93%e3%81%ab%e5%af%be%e3%81%99%e3%82%8b%e8%80%83%e3%81%88%e3%80%81%e3%81%a8%e3%81%8b/</link>
+		<link>httpsatoruchida.github.io/2023/02/05/%e6%98%a8%e4%bb%8a%e3%81%ae%e5%a0%b1%e9%81%93%e3%81%ab%e5%af%be%e3%81%99%e3%82%8b%e8%80%83%e3%81%88%e3%80%81%e3%81%a8%e3%81%8b/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sun, 05 Feb 2023 00:00:02 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Freedom of Religion]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Second Generation]]></category>
-		<guid isPermaLink="false">/?p=295</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=295</guid>
 
 					<description><![CDATA[I wrote down my thoughts about current media coverage of this problem in both Japanese and English. 個人的に気になる点がいくつもあるので書き残しておきます。日本語は後半にあります。 If you are interested in original Japanese expression, please use DeepL Translator. The use of &#8220;second generation&#8221; in media I think the word &#8220;second generation&#8221; used in Japanese media includes too many groups. Based on my observation, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -41,7 +41,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><a href="#sec-1-en">The use of &#8220;second generation&#8221; in media</a></li>
 
 
@@ -91,7 +91,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><a href="#sec-1">「宗教二世」問題という呼称</a></li>
 
 
@@ -149,7 +149,7 @@
 			</item>
 		<item>
 		<title>Talk with Professor and graduate students who have been researching on mind control</title>
-		<link>/2023/01/17/jan-17/</link>
+		<link>httpsatoruchida.github.io/2023/01/17/jan-17/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Tue, 17 Jan 2023 00:00:29 +0000</pubDate>
@@ -159,7 +159,7 @@
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=236</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=236</guid>
 
 					<description><![CDATA[Jan 17 After graduating high school, I made an appointment with one professor who specialized in mind control by &#8220;cults&#8221; such as Aum or &#8220;Unification Church.&#8221; He is very kind to me and invited me to join one of his classes for graduate students. It was before the assassination of Shinzo Abe, so I was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -195,7 +195,7 @@
 			</item>
 		<item>
 		<title>Talk with lawer who have been supported me</title>
-		<link>/2023/01/15/jan-15/</link>
+		<link>httpsatoruchida.github.io/2023/01/15/jan-15/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 00:00:21 +0000</pubDate>
@@ -204,7 +204,7 @@
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=234</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=234</guid>
 
 					<description><![CDATA[Jan 15 We met at the nearest shopping center of us. She was one of my referees of me when I won a scholarship from a Japanese foundation, Grew-Bancroft, and she has worked for me since I joined my previous residence after I left my home. We have kept in touch during the fall semester, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -240,7 +240,7 @@
 			</item>
 		<item>
 		<title>Read right-side magazines and left-side newspapers to grasp viewpoints of the right/left wing for &#8220;Unification Church&#8221;</title>
-		<link>/2023/01/09/jan-6-jan-9/</link>
+		<link>httpsatoruchida.github.io/2023/01/09/jan-6-jan-9/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Mon, 09 Jan 2023 00:00:47 +0000</pubDate>
@@ -254,7 +254,7 @@
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Spiritual Sales]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=58</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=58</guid>
 
 					<description><![CDATA[Jan 6 &#8211; Jan 9 (last added Jan 27) &#8220;Seiron&#8221; 産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131. After Oct 2022, they often discussed about this issue. On Jan 2023, they featured the &#8220;Unification Church&#8221; related issues. Hanada (added Jan 27) 杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81. Akahata (newspaper published by the Japanese Communist [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -270,13 +270,13 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>産経新聞出版局, サンケイ出版, and 産業経済新聞社. 1973. 正論 産経新聞出版局. https://ci.nii.ac.jp/ncid/AN00370131.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>2022 Feb, no articles mentioning this topic</li>
 
 
@@ -286,7 +286,7 @@
 
 
 <li>no mention of &#8220;Unification Church&#8221; until 2022 Oct
-<ul>
+<ul class="wp-block-list">
 <li>2022 Oct, mentioned &#8220;Unification Church&#8221; in some articles</li>
 
 
@@ -326,15 +326,15 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>杉原誠四郎. “「統一教会魔女狩り報道」を断罪する.” 月刊Hanada 2023 2月号 : 76–81.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>2023 Feb, &#8220;Condemning the &#8216;which hunt by media reports of the Unification Church'&#8221;
-<ul>
+<ul class="wp-block-list">
 <li>Criticize the attitude of media and politics</li>
 
 
@@ -370,13 +370,13 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>赤旗編集局, 日本共産党中央委員会機関紙誌業務部, and 日本共産党中央委員会出版局. 2004. しんぶん赤旗. 縮刷版[CD-ROM] ed. 日本共産党中央委員会機関紙誌業務部; 日本共産党中央委員会出版局 (発売). https://ci.nii.ac.jp/ncid/AA11954267.</p>
 </blockquote>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Skim from Oct 2022 to Dec 2022</li>
 
 
@@ -426,7 +426,7 @@
 			</item>
 		<item>
 		<title>The follower of Moonism sued local authority because of &#8220;violation of freedom of faith&#8221;</title>
-		<link>/2023/01/05/january-5/</link>
+		<link>httpsatoruchida.github.io/2023/01/05/january-5/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Thu, 05 Jan 2023 00:00:01 +0000</pubDate>
@@ -434,7 +434,7 @@
 		<category><![CDATA[Freedom of Religion]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=56</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=56</guid>
 
 					<description><![CDATA[Jan 5, Jan 12 On December 16, 2022, one man sued Toyama city because the resolution of terminating the relationship with the former &#8220;Unification Church&#8221; was passed by the Toyama city congress. The man claimed that Toyama city congressman and congresswoman refused his proposal to bring his petition against this resolution, which violates the right [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -458,7 +458,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会信者が富山市を提訴 「関係断絶」決議で.” テレ朝news. TV Asahi Holdings Corporation , December 16, 2022. https://news.tv-asahi.co.jp/news_society/articles/000280071.html.</p>
 </blockquote>
 
@@ -468,7 +468,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会信者が富山市を提訴 ‘関係断つ‘決議で精神的苦痛: NHK.” NHKニュース. Japan Broadcasting Corporation, December 16, 2022. https://www3.nhk.or.jp/news/html/20221216/k10013925361000.html.</p>
 </blockquote>
 
@@ -490,7 +490,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>(page 1)The opinion briefs about &#8220;Unification Church&#8221; have been submitted by Toyama City Council&#8217;s LDP (Liberal Democratic Party), LDP, Civilian group of CDP (Constitutional Democratic Party) reflecting on the group of civilians who submitted petitions. New Komeito would convey thank you for those groups.<br>(page 2)However, the use of the opinion briefs, it seems New Komeito also agree with that, and considering the petitions&#8217; thought which want us to submit the opinion brief as a consensus of Toyama City congress, we would like to ask other parties to build unified version of the opinion brief.</p>
 </blockquote>
 
@@ -500,7 +500,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>(page 2)At first, I would like to ask your opinion about the opinion brief that &#8220;extinguish of former Unification Church and its related organizations and ask for help of victims.&#8221;<br>This opinion brief was handed in by Toyama City congress LDP, LDP, and Civilian group of CDP. Thus, I would like to ask New Komeito to express your attitude.<br>We agree with that.</p>
 </blockquote>
 
@@ -514,7 +514,7 @@
 			</item>
 		<item>
 		<title>&#8220;Requesting Reports and Asking Questions&#8221; &#8211; Religious Corporations Act Article 78-2</title>
-		<link>/2023/01/04/january-4/</link>
+		<link>httpsatoruchida.github.io/2023/01/04/january-4/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Wed, 04 Jan 2023 00:00:37 +0000</pubDate>
@@ -525,7 +525,7 @@
 		<category><![CDATA[Spiritual Abuse]]></category>
 		<category><![CDATA[Spiritual Sales]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=53</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=53</guid>
 
 					<description><![CDATA[Jan 5 What is the right of &#8220;Requesting Reports and Asking Questions&#8221; or &#8220;questioning right&#8221; This right can be exercised if the one who is in a religious organization continuously violates the law or the organization causes serious damage.After examining reports, the minister of MEXT can ask for the order of dissolution of the religious [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -533,7 +533,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Since January 4, &#8220;Requesting Reports and Asking Questions&#8221; has been attempted twice by Agency for Cultural Affairs under the control of the Ministry of Education, Culture, Sports, Science, and Technology (MEXT).</li>
 
 
@@ -599,7 +599,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“旧統一教会に「質問権」 行使は初めて 解散命令に該当か調査へ: NHK.” NHKニュース. Japan Broadcasting Corporation, November 22, 2022. https://www3.nhk.or.jp/news/html/20221122/k10013899551000.html.</p>
 </blockquote>
 ]]></content:encoded>
@@ -609,7 +609,7 @@
 			</item>
 		<item>
 		<title>Read News Articles and Press Conferences by &#8220;Unification Church,&#8221; Day 2</title>
-		<link>/2022/12/25/december-25/</link>
+		<link>httpsatoruchida.github.io/2022/12/25/december-25/</link>
 		
 		<dc:creator><![CDATA[sato]]></dc:creator>
 		<pubDate>Sun, 25 Dec 2022 00:00:28 +0000</pubDate>
@@ -620,7 +620,7 @@
 		<category><![CDATA[Second Generation]]></category>
 		<category><![CDATA[Spiritual Sales]]></category>
 		<category><![CDATA[Unification Church]]></category>
-		<guid isPermaLink="false">/?p=37</guid>
+		<guid isPermaLink="false">httpsatoruchida.github.io/?p=37</guid>
 
 					<description><![CDATA[Dec 25 As I did yesterday, I would like to continue to catch up on the current situation of &#8220;Unification Church&#8221; related issues in Japan. For today, I am going to focus on the press conferences and the announcements by the Church. It is a rare opportunity for us to grasp what they perceive and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -640,7 +640,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Held on July 11th, about an hour</li>
 
 
@@ -658,7 +658,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>Yokoyama, Kotaro, and Rio Nishiyama, eds. “旧・統一教会が会見｢動機だとすれば重く受け止める｣田中会長が語る【会見全文】.” BUSINESS INSIDER JAPAN. BUSINESS INSIDER JAPAN, July 29, 2022. https://www.businessinsider.jp/post-256503.</p>
 </blockquote>
 
@@ -672,7 +672,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Held on August 10th, about an hour</li>
 
 
@@ -694,7 +694,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“【全文ノーカット】旧統一教会・田中富広会長会見「政治的介入や不正はない」: TBS News Dig (1ページ).” TBS NEWS DIG. TOKYO BROADCASTING SYSTEM TELEVISION, INC.　, August 10, 2022. https://newsdig.tbs.co.jp/articles/-/120753?display=1.</p>
 </blockquote>
 ]]></content:encoded>
