@@ -12,7 +12,7 @@
 	<atom:link href="/tag/kobra-2/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 19 Jan 2025 23:51:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jan 2025 17:15:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,7 +36,7 @@
 
 					<description><![CDATA[The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being reduced for on-campus projects (it was 1000, now 500 bucks), it was cheap enough. Easily installed in my space. Then, why not print something? So I did, without knowing a series of issues were waiting for me. Takeaway message: There is always a reason for a price that is too good to be real. If you have a fat budget and are not a fan of problem-solving, just get the so-called “best” printer for an easy and smooth setup. </p>
+<p>The 3D printer is no longer expensive unless you are looking for something super fast or precise. I got my Kobra 2 (not Neo, Pro, Plus, Max etc) from eBay, where Anycubic&#8217;s official store listed refurbished printers. It was only 79 bucks. So I ordered it for my Winter Term project. Despite financial aid being reduced for on-campus projects (it was 1000, now 500 bucks), it was cheap enough. Easily installed in my space. Then, why not print something? So I did, without knowing a series of issues were waiting for me. Takeaway message: There is always a reason for a price that is too good to be real. If you have a fat budget and are not a fan of problem-solving, just get the so-called “best” printer for an easy and smooth setup.&nbsp;</p>
 
 
 
@@ -57,7 +57,7 @@ At 1:11, take a look at the cylinder coming out of the hotend and into the hoten
 
 
 
-<p>I installed the Klipper after a few prints with an official firmware, and now it is working flawlessly. Here is my printer.cfg and variables.cfg for klipper, based on function3d and crororo’s config files. (1) I also uploaded my PrusaSlicer settings for 15% wood PLA filament from SUNLU and 8% carbon fiber PETG from Polymaker. They work perfectly in my environment. <a href="https://drive.google.com/drive/folders/13D-96QrvjOnsqmwjhqopPet4tterH-Ga?usp=sharing">Link to Google Drive is here</a>.</p>
+<p>I installed the Klipper after a few prints with an official firmware, and now it is working flawlessly. Here is my printer.cfg and variables.cfg for klipper, based on function3d and crororo’s config files. (1) I also uploaded my PrusaSlicer settings for 15% wood PLA filament from SUNLU and 8% carbon fiber PETG from Polymaker. They work perfectly in my environment. <a href="https://github.com/satouchida/anycubic-Kobra-2-klipper">Link to github repo is here</a>.</p>
 
 
 
